@@ -1,0 +1,79 @@
+{
+  "words": [
+    { "word": "academic", "phonetic": "/ˌækəˈdemɪk/", "meaning": "adj. 学术的", "example": "She has an academic background in linguistics.", "exampleCn": "她拥有语言学学术背景。" },
+    { "word": "curriculum", "phonetic": "/kəˈrɪkjələm/", "meaning": "n. 课程", "example": "The school curriculum includes both science and arts.", "exampleCn": "学校课程包括理科和文科。" },
+    { "word": "compulsory", "phonetic": "/kəmˈpʌlsəri/", "meaning": "adj. 强制的，必修的", "example": "Mathematics is compulsory for all students.", "exampleCn": "数学是所有学生的必修课。" },
+    { "word": "assessment", "phonetic": "/əˈsesmənt/", "meaning": "n. 评估", "example": "Continuous assessment is used to track student progress.", "exampleCn": "持续性评估用于跟踪学生进步。" },
+    { "word": "pedagogy", "phonetic": "/ˈpedəɡɒdʒi/", "meaning": "n. 教学法", "example": "Modern pedagogy emphasizes student-centered learning.", "exampleCn": "现代教学法强调以学生为中心的学习。" },
+    { "word": "literacy", "phonetic": "/ˈlɪtərəsi/", "meaning": "n. 读写能力", "example": "Literacy rates have improved significantly over the past decade.", "exampleCn": "过去十年读写率显著提高。" },
+    { "word": "tuition", "phonetic": "/tjuˈɪʃn/", "meaning": "n. 学费；教学", "example": "University tuition has risen sharply in recent years.", "exampleCn": "大学学费近年来急剧上涨。" },
+    { "word": "scholarship", "phonetic": "/ˈskɒləʃɪp/", "meaning": "n. 奖学金", "example": "She won a scholarship to study abroad.", "exampleCn": "她获得了出国留学奖学金。" },
+    { "word": "vocational", "phonetic": "/vəʊˈkeɪʃənl/", "meaning": "adj. 职业的", "example": "Vocational training provides practical skills for the workplace.", "exampleCn": "职业培训提供工作场所的实用技能。" },
+    { "word": "competence", "phonetic": "/ˈkɒmpɪtəns/", "meaning": "n. 能力，胜任", "example": "The course develops students' communicative competence.", "exampleCn": "该课程培养学生的交际能力。" },
+    { "word": "enrolment", "phonetic": "/ɪnˈrəʊlmənt/", "meaning": "n. 注册，入学", "example": "University enrolment has increased by 15% this year.", "exampleCn": "大学入学人数今年增长了15%。" },
+    { "word": "curriculum vitae", "phonetic": "/kəˌrɪkjələm ˈviːtaɪ/", "meaning": "n. 简历", "example": "A strong curriculum vitae is essential for job applications.", "exampleCn": "一份好的简历对求职至关重要。" },
+    { "word": "discipline", "phonetic": "/ˈdɪsəplɪn/", "meaning": "n. 纪律；学科", "example": "Classroom discipline is crucial for effective learning.", "exampleCn": "课堂纪律对有效学习至关重要。" },
+    { "word": "graduate", "phonetic": "/ˈɡrædʒuət/", "meaning": "n./v. 毕业生；毕业", "example": "More graduates are choosing to start their own businesses.", "exampleCn": "越来越多的毕业生选择创业。" },
+    { "word": "illiterate", "phonetic": "/ɪˈlɪtərət/", "meaning": "adj. 文盲的", "example": "Efforts are being made to reduce the number of illiterate adults.", "exampleCn": "正在努力减少文盲成年人的数量。" },
+    { "word": "kindergarten", "phonetic": "/ˈkɪndəɡɑːtn/", "meaning": "n. 幼儿园", "example": "Children usually start kindergarten at age five.", "exampleCn": "孩子通常在五岁开始上幼儿园。" },
+    { "word": "mentor", "phonetic": "/ˈmentɔːr/", "meaning": "n. 导师", "example": "Each student is assigned a mentor for guidance.", "exampleCn": "每位学生都分配了一位导师提供指导。" },
+    { "word": "nurture", "phonetic": "/ˈnɜːtʃər/", "meaning": "v. 培养，养育", "example": "Schools should nurture creativity in students.", "exampleCn": "学校应该培养学生的创造力。" },
+    { "word": "plagiarism", "phonetic": "/ˈpleɪdʒərɪzəm/", "meaning": "n. 剽窃", "example": "Plagiarism is a serious academic offense.", "exampleCn": "剽窃是严重的学术违规行为。" },
+    { "word": "seminar", "phonetic": "/ˈsemɪnɑːr/", "meaning": "n. 研讨会", "example": "The seminar focused on modern teaching methods.", "exampleCn": "研讨会聚焦于现代教学方法。" },
+    { "word": "syllabus", "phonetic": "/ˈsɪləbəs/", "meaning": "n. 教学大纲", "example": "The syllabus outlines all topics covered in the course.", "exampleCn": "教学大纲列出了课程涵盖的所有主题。" },
+    { "word": "tertiary", "phonetic": "/ˈtɜːʃəri/", "meaning": "adj. 高等教育的", "example": "Tertiary education includes universities and colleges.", "exampleCn": "高等教育包括大学和学院。" },
+    { "word": "undergraduate", "phonetic": "/ˌʌndəˈɡrædʒuət/", "meaning": "n. 本科生", "example": "Undergraduate students typically study for three to four years.", "exampleCn": "本科生通常学习三到四年。" },
+    { "word": "specialize", "phonetic": "/ˈspeʃəlaɪz/", "meaning": "v. 专攻", "example": "Students can specialize in their chosen field in the final year.", "exampleCn": "学生可以在最后一年专攻自己选择的领域。" },
+    { "word": "dedicate", "phonetic": "/ˈdedɪkeɪt/", "meaning": "v. 致力于", "example": "She dedicated herself to educational reform.", "exampleCn": "她致力于教育改革。" },
+    { "word": "cognitive", "phonetic": "/ˈkɒɡnətɪv/", "meaning": "adj. 认知的", "example": "Reading enhances children's cognitive development.", "exampleCn": "阅读促进儿童的认知发展。" },
+    { "word": "allocate", "phonetic": "/ˈæləkeɪt/", "meaning": "v. 分配", "example": "The government allocated more funds to education.", "exampleCn": "政府为教育分配了更多资金。" },
+    { "word": "comprehensive", "phonetic": "/ˌkɒmprɪˈhensɪv/", "meaning": "adj. 全面的", "example": "The school offers a comprehensive education program.", "exampleCn": "学校提供全面的教育计划。" },
+    { "word": "facilitate", "phonetic": "/fəˈsɪlɪteɪt/", "meaning": "v. 促进", "example": "Technology can facilitate personalized learning.", "exampleCn": "技术可以促进个性化学习。" },
+    { "word": "innovation", "phonetic": "/ˌɪnəˈveɪʃn/", "meaning": "n. 创新", "example": "Educational innovation is transforming classrooms.", "exampleCn": "教育创新正在改变课堂。" },
+    { "word": "interactive", "phonetic": "/ˌɪntərˈæktɪv/", "meaning": "adj. 互动的", "example": "Interactive learning methods engage students more effectively.", "exampleCn": "互动学习方法更有效地吸引学生。" },
+    { "word": "motivation", "phonetic": "/ˌməʊtɪˈveɪʃn/", "meaning": "n. 动力，动机", "example": "Intrinsic motivation is key to long-term learning success.", "exampleCn": "内在动力是长期学习成功的关键。" },
+    { "word": "phenomenon", "phonetic": "/fəˈnɒmɪnən/", "meaning": "n. 现象", "example": "The phenomenon of lifelong learning is becoming more common.", "exampleCn": "终身学习现象正变得越来越普遍。" },
+    { "word": "potential", "phonetic": "/pəˈtenʃl/", "meaning": "n./adj. 潜力；潜在的", "example": "Every student has the potential to excel.", "exampleCn": "每个学生都有出色的潜力。" },
+    { "word": "rigorous", "phonetic": "/ˈrɪɡərəs/", "meaning": "adj. 严格的，严谨的", "example": "The program offers rigorous academic training.", "exampleCn": "该计划提供严格的学术训练。" },
+    { "word": "stimulate", "phonetic": "/ˈstɪmjuleɪt/", "meaning": "v. 激发，刺激", "example": "Good teachers stimulate curiosity in their students.", "exampleCn": "好老师激发学生的好奇心。" },
+    { "word": "supplement", "phonetic": "/ˈsʌplɪmənt/", "meaning": "v./n. 补充", "example": "Online resources supplement traditional classroom learning.", "exampleCn": "在线资源补充传统课堂学习。" },
+    { "word": "conventional", "phonetic": "/kənˈvenʃənl/", "meaning": "adj. 传统的", "example": "Conventional teaching methods are being re-evaluated.", "exampleCn": "传统教学方法正在被重新评估。" },
+    { "word": "inequality", "phonetic": "/ˌɪnɪˈkwɒləti/", "meaning": "n. 不平等", "example": "Educational inequality remains a significant challenge.", "exampleCn": "教育不平等仍然是一个重大挑战。" },
+    { "word": "diverse", "phonetic": "/daɪˈvɜːs/", "meaning": "adj. 多样的", "example": "A diverse learning environment benefits all students.", "exampleCn": "多样化的学习环境使所有学生受益。" }
+  ],
+  "reading": {
+    "title": "The Role of Education in Modern Society",
+    "content": "Education has long been recognized as a cornerstone of personal and societal development. In today's rapidly changing world, its importance has only grown. A **comprehensive** education system not only imparts knowledge but also **nurtures** critical thinking and creativity.\n\nMany countries have made education **compulsory** up to a certain age, recognizing that **literacy** and numeracy are fundamental skills for participation in modern society. However, the **conventional** approach to education is being challenged by new **pedagogical** methods that emphasize **interactive** learning and student-centered approaches.\n\n**Tertiary** education, including universities and colleges, plays a crucial role in preparing individuals for specialized careers. The cost of **tuition** has become a topic of heated debate, with many advocating for increased government funding and **scholarship** programs to address educational **inequality**.\n\nIn the workplace, **vocational** training and continuous learning have become essential. Employers value not only **academic** qualifications but also practical **competence** and adaptability. The **phenomenon** of lifelong learning reflects the understanding that education does not end with formal schooling.\n\nTechnology has transformed the educational landscape, offering new tools to **facilitate** learning and **stimulate** student engagement. Online resources **supplement** traditional classroom instruction, and **innovative** teaching methods are helping to unlock every student's **potential**. As we look to the future, creating a **diverse** and inclusive educational environment remains one of our most important goals."
+  },
+  "readingQuestions": [
+    { "question": "What does the author say about conventional teaching methods?", "options": ["They are still the best approach", "They are being re-evaluated", "They should be abandoned entirely", "They are only used in tertiary education"], "correct": 1 },
+    { "question": "According to the passage, why is vocational training important?", "options": ["It replaces academic education", "It provides practical workplace skills", "It is cheaper than university", "It requires less time"], "correct": 1 },
+    { "question": "What role does technology play in education according to the passage?", "options": ["It replaces teachers", "It facilitates learning and stimulates engagement", "It reduces the need for schools", "It makes education more expensive"], "correct": 1 },
+    { "question": "What does 'lifelong learning' refer to in the passage?", "options": ["Learning only in formal institutions", "Continuing education beyond formal schooling", "Learning a single skill for life", "Online learning only"], "correct": 1 },
+    { "question": "Which of the following is mentioned as a challenge in education?", "options": ["Lack of technology", "Educational inequality", "Too many teachers", "Excessive funding"], "correct": 1 }
+  ],
+  "writing": {
+    "type": "Discuss both views",
+    "task": "Task 2",
+    "time": "40 minutes",
+    "prompt": "Some people believe that the primary purpose of education is to prepare individuals for the workforce. Others argue that education has a broader role in developing well-rounded individuals and contributing to society as a whole. Discuss both these views and give your own opinion.",
+    "tips": ["Start with a clear introduction stating both viewpoints", "Dedicate one paragraph to each view", "Use specific examples to support your points", "Include at least 5-6 vocabulary words from today's list", "Conclude with your personal opinion"],
+    "suggestedVocab": ["vocational", "competence", "comprehensive", "nurture", "cognitive", "potential"]
+  },
+  "speaking": {
+    "part1": [
+      { "question": "Do you think education is important in your country? Why?", "reference": "Education plays a vital role in shaping individuals and society. In my country, it is highly valued as a means to secure better career opportunities and personal growth." },
+      { "question": "What subject did you enjoy most at school?", "reference": "I was particularly fond of literature because it stimulated my imagination and helped me understand different perspectives." },
+      { "question": "Do you think the education system in your country needs improvement?", "reference": "While the system has its strengths, I believe there is room for improvement in terms of fostering creativity rather than focusing solely on exam results." }
+    ],
+    "part2": {
+      "prompt": "Describe a teacher who made a significant impact on your life. You should say:\n- Who this teacher was\n- What subject they taught\n- How they influenced you\n- And explain why you remember them so vividly",
+      "reference": "I'd like to talk about my high school English teacher, Mrs. Chen, who completely transformed my attitude toward learning. She taught English literature and had a unique ability to make every lesson engaging. What set her apart was her dedication to nurturing each student's potential rather than just following the curriculum. She would often stay after class to provide extra guidance and encouraged us to think critically rather than memorize facts. Her mentorship had a profound impact on my academic journey and inspired me to pursue my studies with genuine curiosity."
+    },
+    "part3": [
+      { "question": "How has education changed in your country over the past few decades?", "reference": "Education has undergone significant transformation. There's been a shift from traditional rote learning toward more interactive and student-centered approaches. Technology has also played a crucial role in facilitating access to educational resources." },
+      { "question": "What role should the government play in education?", "reference": "I believe the government should ensure equal access to quality education for all citizens, allocate adequate funding, and establish rigorous standards while allowing room for innovation in teaching methods." },
+      { "question": "Do you think online education will replace traditional classrooms in the future?", "reference": "While online education offers flexibility and accessibility, I don't believe it will completely replace traditional classrooms. The interactive and social aspects of in-person learning are invaluable for cognitive and social development." }
+    ]
+  }
+}
