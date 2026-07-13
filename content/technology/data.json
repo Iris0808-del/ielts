@@ -1,0 +1,79 @@
+{
+  "words": [
+    { "word": "innovation", "phonetic": "/ˌɪnəˈveɪʃn/", "meaning": "n. 创新", "example": "Technological innovation drives economic growth.", "exampleCn": "技术创新驱动经济增长。" },
+    { "word": "digital", "phonetic": "/ˈdɪdʒɪtl/", "meaning": "adj. 数字的", "example": "The digital revolution has transformed every industry.", "exampleCn": "数字革命改变了每个行业。" },
+    { "word": "automation", "phonetic": "/ˌɔːtəˈmeɪʃn/", "meaning": "n. 自动化", "example": "Automation is replacing many manual jobs.", "exampleCn": "自动化正在取代许多体力工作。" },
+    { "word": "artificial intelligence", "phonetic": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/", "meaning": "n. 人工智能", "example": "AI is revolutionizing healthcare and education.", "exampleCn": "人工智能正在革新医疗和教育。" },
+    { "word": "cybersecurity", "phonetic": "/ˌsaɪbəsɪˈkjʊərəti/", "meaning": "n. 网络安全", "example": "Cybersecurity is a growing concern for businesses.", "exampleCn": "网络安全是企业日益关注的问题。" },
+    { "word": "algorithm", "phonetic": "/ˈælɡərɪðəm/", "meaning": "n. 算法", "example": "Social media platforms use algorithms to recommend content.", "exampleCn": "社交媒体平台使用算法推荐内容。" },
+    { "word": "bandwidth", "phonetic": "/ˈbændwɪdθ/", "meaning": "n. 带宽", "example": "High bandwidth is essential for video streaming.", "exampleCn": "高带宽对视频流至关重要。" },
+    { "word": "breakthrough", "phonetic": "/ˈbreɪkθruː/", "meaning": "n. 突破", "example": "The discovery was a major breakthrough in medicine.", "exampleCn": "这一发现是医学上的重大突破。" },
+    { "word": "compatible", "phonetic": "/kəmˈpætəbl/", "meaning": "adj. 兼容的", "example": "The software is compatible with all major operating systems.", "exampleCn": "该软件与所有主要操作系统兼容。" },
+    { "word": "cyber", "phonetic": "/ˈsaɪbər/", "meaning": "adj. 网络的", "example": "Cyber attacks are becoming more sophisticated.", "exampleCn": "网络攻击变得越来越复杂。" },
+    { "word": "data mining", "phonetic": "/ˈdeɪtə maɪnɪŋ/", "meaning": "n. 数据挖掘", "example": "Data mining helps companies understand customer behavior.", "exampleCn": "数据挖掘帮助公司了解客户行为。" },
+    { "word": "device", "phonetic": "/dɪˈvaɪs/", "meaning": "n. 设备", "example": "Smart devices are connected to the internet of things.", "exampleCn": "智能设备连接到物联网。" },
+    { "word": "disruptive", "phonetic": "/dɪsˈrʌptɪv/", "meaning": "adj. 颠覆性的", "example": "Disruptive technologies can change entire industries.", "exampleCn": "颠覆性技术可以改变整个行业。" },
+    { "word": "encryption", "phonetic": "/ɪnˈkrɪpʃn/", "meaning": "n. 加密", "example": "End-to-end encryption protects user privacy.", "exampleCn": "端到端加密保护用户隐私。" },
+    { "word": "gadget", "phonetic": "/ˈɡædʒɪt/", "meaning": "n. 小工具", "example": "New gadgets are released every year.", "exampleCn": "每年都有新设备发布。" },
+    { "word": "infrastructure", "phonetic": "/ˈɪnfrəstrʌktʃər/", "meaning": "n. 基础设施", "example": "Digital infrastructure is essential for modern economies.", "exampleCn": "数字基础设施对现代经济至关重要。" },
+    { "word": "interface", "phonetic": "/ˈɪntəfeɪs/", "meaning": "n. 界面，接口", "example": "A user-friendly interface improves the overall experience.", "exampleCn": "友好的界面改善整体体验。" },
+    { "word": "logistics", "phonetic": "/ləˈdʒɪstɪks/", "meaning": "n. 物流", "example": "Technology has streamlined logistics and supply chains.", "exampleCn": "技术简化了物流和供应链。" },
+    { "word": "nanotechnology", "phonetic": "/ˌnænəʊtekˈnɒlədʒi/", "meaning": "n. 纳米技术", "example": "Nanotechnology has applications in medicine and electronics.", "exampleCn": "纳米技术在医学和电子学中有应用。" },
+    { "word": "network", "phonetic": "/ˈnetwɜːk/", "meaning": "n. 网络", "example": "5G networks offer faster speeds and lower latency.", "exampleCn": "5G网络提供更快的速度和更低的延迟。" },
+    { "word": "optimize", "phonetic": "/ˈɒptɪmaɪz/", "meaning": "v. 优化", "example": "Companies use AI to optimize their operations.", "exampleCn": "公司使用AI优化其运营。" },
+    { "word": "patent", "phonetic": "/ˈpeɪtnt/", "meaning": "n. 专利", "example": "Tech companies file thousands of patents each year.", "exampleCn": "科技公司每年申请数千项专利。" },
+    { "word": "privacy", "phonetic": "/ˈpraɪvəsi/", "meaning": "n. 隐私", "example": "Data privacy is a major concern for internet users.", "exampleCn": "数据隐私是互联网用户的主要关切。" },
+    { "word": "productivity", "phonetic": "/ˌprɒdʌkˈtɪvəti/", "meaning": "n. 生产力", "example": "Technology has greatly increased workplace productivity.", "exampleCn": "技术极大地提高了工作效率。" },
+    { "word": "regulate", "phonetic": "/ˈreɡjuleɪt/", "meaning": "v. 监管", "example": "Governments are working to regulate AI technologies.", "exampleCn": "政府正在努力监管AI技术。" },
+    { "word": "revolutionize", "phonetic": "/ˌrevəˈluːʃənaɪz/", "meaning": "v. 彻底变革", "example": "The internet has revolutionized communication.", "exampleCn": "互联网彻底变革了通信。" },
+    { "word": "robotics", "phonetic": "/rəʊˈbɒtɪks/", "meaning": "n. 机器人技术", "example": "Robotics is transforming manufacturing industries.", "exampleCn": "机器人技术正在改变制造业。" },
+    { "word": "sophisticated", "phonetic": "/səˈfɪstɪkeɪtɪd/", "meaning": "adj. 复杂的，精密的", "example": "Sophisticated algorithms power modern search engines.", "exampleCn": "精密的算法驱动着现代搜索引擎。" },
+    { "word": "surveillance", "phonetic": "/sɜːˈveɪləns/", "meaning": "n. 监控", "example": "Surveillance technology raises ethical questions.", "exampleCn": "监控技术引发了伦理问题。" },
+    { "word": "telecommunication", "phonetic": "/ˌtelikəˌmjuːnɪˈkeɪʃn/", "meaning": "n. 电信", "example": "Telecommunication networks connect people across the globe.", "exampleCn": "电信网络连接了全球的人们。" },
+    { "word": "cyberspace", "phonetic": "/ˈsaɪbəspeɪs/", "meaning": "n. 网络空间", "example": "Cyberspace has become a new domain for commerce and communication.", "exampleCn": "网络空间已成为商业和通信的新领域。" },
+    { "word": "technological", "phonetic": "/ˌteknəˈlɒdʒɪkl/", "meaning": "adj. 技术的", "example": "Technological advancements are happening at an unprecedented pace.", "exampleCn": "技术进步正以前所未有的速度发生。" },
+    { "word": "virtual", "phonetic": "/ˈvɜːtʃuəl/", "meaning": "adj. 虚拟的", "example": "Virtual reality is changing the way we experience entertainment.", "exampleCn": "虚拟现实正在改变我们体验娱乐的方式。" },
+    { "word": "wearable", "phonetic": "/ˈweərəbl/", "meaning": "adj./n. 可穿戴的；可穿戴设备", "example": "Wearable devices track health and fitness metrics.", "exampleCn": "可穿戴设备追踪健康和健身指标。" },
+    { "word": "e-commerce", "phonetic": "/ˈiː kɒmɜːs/", "meaning": "n. 电子商务", "example": "E-commerce has transformed the retail industry.", "exampleCn": "电子商务改变了零售业。" },
+    { "word": "blockchain", "phonetic": "/ˈblɒktʃeɪn/", "meaning": "n. 区块链", "example": "Blockchain technology enables secure transactions.", "exampleCn": "区块链技术实现了安全交易。" },
+    { "word": "big data", "phonetic": "/bɪɡ ˈdeɪtə/", "meaning": "n. 大数据", "example": "Big data analytics helps businesses make informed decisions.", "exampleCn": "大数据分析帮助企业做出明智决策。" },
+    { "word": "cloud computing", "phonetic": "/klaʊd kəmˈpjuːtɪŋ/", "meaning": "n. 云计算", "example": "Cloud computing allows access to data from anywhere.", "exampleCn": "云计算允许从任何地方访问数据。" },
+    { "word": "machine learning", "phonetic": "/məˈʃiːn ˈlɜːnɪŋ/", "meaning": "n. 机器学习", "example": "Machine learning algorithms improve with more data.", "exampleCn": "机器学习算法随着更多数据而改进。" },
+    { "word": "smartphone", "phonetic": "/ˈsmɑːtfəʊn/", "meaning": "n. 智能手机", "example": "Smartphones have become an essential part of daily life.", "exampleCn": "智能手机已成为日常生活的重要组成部分。" }
+  ],
+  "reading": {
+    "title": "How Technology is Shaping Our Future",
+    "content": "Technology has become an integral part of modern life, driving **innovation** across every sector. The **digital** revolution has transformed how we work, communicate, and access information. **Artificial intelligence** and **machine learning** are at the forefront of this transformation, enabling **sophisticated** analysis of **big data** to derive meaningful insights.\n\n**Automation** and **robotics** are reshaping industries from manufacturing to healthcare. While some fear job losses, these technologies also create new opportunities and boost **productivity**. **Cloud computing** allows businesses to scale rapidly, while **blockchain** technology offers new possibilities for secure transactions.\n\n**Cybersecurity** has become increasingly important as more of our lives move into **cyberspace**. **Encryption** technologies protect **privacy** and secure sensitive information. However, **surveillance** capabilities also raise ethical questions about the balance between security and individual rights.\n\n**Wearable** devices and **smartphones** have made technology personal and portable. **E-commerce** has **revolutionized** retail, and **virtual** experiences are becoming more immersive. **Technological** **breakthroughs** in fields like **nanotechnology** promise to solve some of humanity's greatest challenges.\n\nAs technology continues to advance, the need for appropriate **regulation** grows. Governments worldwide are working to **regulate** AI, protect data **privacy**, and ensure that **digital infrastructure** benefits everyone. The future will be shaped by how we harness these powerful tools."
+  },
+  "readingQuestions": [
+    { "question": "According to the passage, what is driving innovation across sectors?", "options": ["Government policies", "Technology", "Education", "Economic growth"], "correct": 1 },
+    { "question": "What concern does the passage raise about automation?", "options": ["It is too slow", "Some people fear job losses", "It is too expensive", "It reduces productivity"], "correct": 1 },
+    { "question": "What ethical question does surveillance technology raise?", "options": ["Is it too expensive?", "Balance between security and individual rights", "Is it effective?", "Does it create jobs?"], "correct": 1 },
+    { "question": "Which field promises to solve humanity's greatest challenges?", "options": ["Nanotechnology", "Traditional farming", "Manual labor", "Basic education"], "correct": 0 },
+    { "question": "What are governments doing about AI according to the passage?", "options": ["Banning it entirely", "Working to regulate it", "Ignoring it", "Promoting unlimited development"], "correct": 1 }
+  ],
+  "writing": {
+    "type": "Agree or Disagree",
+    "task": "Task 2",
+    "time": "40 minutes",
+    "prompt": "Some people believe that technological advancements have made our lives more complicated rather than simpler. To what extent do you agree or disagree with this statement?",
+    "tips": ["Start with a clear thesis statement", "Acknowledge both the benefits and drawbacks of technology", "Use specific examples from daily life", "Include relevant vocabulary from today's list", "Conclude with a balanced judgment"],
+    "suggestedVocab": ["innovation", "digital", "automation", "productivity", "sophisticated", "revolutionize"]
+  },
+  "speaking": {
+    "part1": [
+      { "question": "How often do you use technology in your daily life?", "reference": "I use technology constantly throughout the day, from my smartphone alarm in the morning to streaming services in the evening. It has become an integral part of my routine." },
+      { "question": "What is your favorite piece of technology?", "reference": "I would say my smartphone is my favorite because it combines so many functions - communication, information access, entertainment, and productivity tools all in one device." },
+      { "question": "Do you think technology makes people lazy?", "reference": "While technology does automate many tasks, I believe it frees up mental energy for more creative and meaningful work rather than making people lazy per se." }
+    ],
+    "part2": {
+      "prompt": "Describe a piece of technology that has changed your life. You should say:\n- What it is\n- When you started using it\n- How it changed your daily routine\n- And explain why you think it's important",
+      "reference": "I'd like to talk about the smartphone, which has completely transformed how I live and work. I got my first smartphone about ten years ago, and since then it has revolutionized my daily routine. I use it for everything from navigation and communication to banking and learning. What makes it truly remarkable is how it has consolidated dozens of devices into one portable gadget. It has made information instantly accessible and connected me with people across the globe. I believe it's one of the most significant technological innovations of our time."
+    },
+    "part3": [
+      { "question": "Will artificial intelligence replace human workers in the future?", "reference": "While AI will certainly automate certain jobs, I believe it will also create new roles and opportunities. The key is for workers to adapt and develop skills that complement AI rather than compete with it." },
+      { "question": "How has social media changed the way people communicate?", "reference": "Social media has made communication instant and global, but it has also led to concerns about privacy, misinformation, and the quality of interpersonal relationships." },
+      { "question": "What role should government play in regulating technology?", "reference": "Governments should strike a balance between encouraging innovation and protecting citizens. Regulation of data privacy, cybersecurity, and AI ethics are particularly important areas that need careful oversight." }
+    ]
+  }
+}
