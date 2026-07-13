@@ -1,0 +1,30 @@
+name: Daily Content Update
+
+on:
+  schedule:
+    - cron: '0 16 * * *'   # Runs daily at 16:00 UTC = 00:00 Beijing
+  workflow_dispatch:       # Allow manual trigger too
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate content
+        run: python generate-content.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "IELTS Bot"
+          git config user.email "bot@ielts-daily.app"
+          git add content/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily content update $(date +%Y-%m-%d)"
+            git push
+          fi
