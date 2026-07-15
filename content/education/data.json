@@ -1,27 +1,6 @@
 {
   "words": [
     {
-      "word": "remedial",
-      "phonetic": "/rɪˈmiːdiəl/",
-      "meaning": "adj. 补习的， remedial",
-      "example": "Remedial classes help struggling students catch up.",
-      "exampleCn": "补习班帮助有困难的学生赶上来。"
-    },
-    {
-      "word": "syllabus",
-      "phonetic": "/ˈsɪləbəs/",
-      "meaning": "n. 教学大纲",
-      "example": "The syllabus is updated annually to reflect changes.",
-      "exampleCn": "教学大纲每年更新以反映变化。"
-    },
-    {
-      "word": "co-curricular",
-      "phonetic": "/ˌkəʊ kəˈrɪkjələ/",
-      "meaning": "adj. 课外辅助的",
-      "example": "Co-curricular activities complement academic learning.",
-      "exampleCn": "课外辅助活动补充学术学习。"
-    },
-    {
       "word": "conventional",
       "phonetic": "/kənˈvenʃənl/",
       "meaning": "adj. 传统的",
@@ -29,109 +8,60 @@
       "exampleCn": "传统方法正在被重新评估。"
     },
     {
-      "word": "enrolment",
-      "phonetic": "/ɪnˈrəʊlmənt/",
-      "meaning": "n. 注册，入学",
-      "example": "Enrolment in STEM courses has increased.",
-      "exampleCn": "STEM课程注册人数增加了。"
+      "word": "didacticism",
+      "phonetic": "/daɪˈdæktɪsɪzəm/",
+      "meaning": "n. 教导主义",
+      "example": "Modern education moves away from pure didacticism.",
+      "exampleCn": "现代教育正在摆脱纯粹的教导主义。"
     },
     {
-      "word": "pedantic",
-      "phonetic": "/pɪˈdæntɪk/",
-      "meaning": "adj. 迂腐的，卖弄学问的",
-      "example": "A pedantic approach can stifle student creativity.",
-      "exampleCn": "迂腐的方法会扼杀学生的创造力。"
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "meaning": "n. 现象",
+      "example": "Lifelong learning is a growing phenomenon.",
+      "exampleCn": "终身学习是日益增长的现象。"
     },
     {
-      "word": "literacy",
-      "phonetic": "/ˈlɪtərəsi/",
-      "meaning": "n. 读写能力",
-      "example": "Digital literacy is as important as traditional literacy.",
-      "exampleCn": "数字素养与传统读写能力同等重要。"
+      "word": "tuition",
+      "phonetic": "/tjuˈɪʃn/",
+      "meaning": "n. 学费",
+      "example": "Rising tuition costs burden many families.",
+      "exampleCn": "上涨的学费给许多家庭带来负担。"
     },
     {
-      "word": "stimulate",
-      "phonetic": "/ˈstɪmjuleɪt/",
-      "meaning": "v. 激发",
-      "example": "Good teachers stimulate intellectual curiosity.",
-      "exampleCn": "好老师激发求知欲。"
+      "word": "curriculum",
+      "phonetic": "/kəˈrɪkjələm/",
+      "meaning": "n. 课程",
+      "example": "The curriculum was redesigned to include coding.",
+      "exampleCn": "课程被重新设计以包含编程。"
     },
     {
-      "word": "diverse",
-      "phonetic": "/daɪˈvɜːs/",
-      "meaning": "adj. 多样的",
-      "example": "A diverse classroom benefits all learners.",
-      "exampleCn": "多样化的课堂使所有学习者受益。"
+      "word": "rote",
+      "phonetic": "/rəʊt/",
+      "meaning": "n. 死记硬背",
+      "example": "Rote learning is less effective than understanding concepts.",
+      "exampleCn": "死记硬背不如理解概念有效。"
     },
     {
-      "word": "pedagogue",
-      "phonetic": "/ˈpedəɡɒɡ/",
-      "meaning": "n. 教师，教育者",
-      "example": "Every pedagogue strives to inspire their students.",
-      "exampleCn": "每位教育者都努力激励学生。"
+      "word": "holistic",
+      "phonetic": "/həʊˈlɪstɪk/",
+      "meaning": "adj. 全面的，整体的",
+      "example": "A holistic approach to education considers emotional growth.",
+      "exampleCn": "全面的教育方法考虑情感成长。"
     },
     {
-      "word": "plagiarism",
-      "phonetic": "/ˈpleɪdʒərɪzəm/",
-      "meaning": "n. 剽窃",
-      "example": "Plagiarism can result in severe penalties.",
-      "exampleCn": "剽窃可能导致严厉处罚。"
+      "word": "undergraduate",
+      "phonetic": "/ˌʌndəˈɡrædʒuət/",
+      "meaning": "n. 本科生",
+      "example": "Undergraduate programs typically last three years.",
+      "exampleCn": "本科课程通常为三年。"
     },
     {
-      "word": "didactic",
-      "phonetic": "/daɪˈdæktɪk/",
-      "meaning": "adj. 教学的",
-      "example": "Didactic materials support structured learning.",
-      "exampleCn": "教学材料支持结构化学习。"
-    },
-    {
-      "word": "supplement",
-      "phonetic": "/ˈsʌplɪmənt/",
-      "meaning": "v./n. 补充",
-      "example": "Online courses supplement traditional learning.",
-      "exampleCn": "在线课程补充传统学习。"
-    },
-    {
-      "word": "illiterate",
-      "phonetic": "/ɪˈlɪtərət/",
-      "meaning": "adj. 文盲的",
-      "example": "Efforts continue to reduce illiterate populations.",
-      "exampleCn": "继续努力减少文盲人口。"
-    },
-    {
-      "word": "didactic",
-      "phonetic": "/daɪˈdæktɪk/",
-      "meaning": "adj. 教导的，说教的",
-      "example": "Didactic teaching methods have both merits and drawbacks.",
-      "exampleCn": "说教式教学方法既有优点也有缺点。"
-    },
-    {
-      "word": "seminar",
-      "phonetic": "/ˈsemɪnɑːr/",
-      "meaning": "n. 研讨会",
-      "example": "Weekly seminars encourage in-depth discussion.",
-      "exampleCn": "每周研讨会鼓励深入讨论。"
-    },
-    {
-      "word": "cognitive",
-      "phonetic": "/ˈkɒɡnətɪv/",
-      "meaning": "adj. 认知的",
-      "example": "Early education boosts cognitive development.",
-      "exampleCn": "早期教育促进认知发展。"
-    },
-    {
-      "word": "matriculation",
-      "phonetic": "/məˌtrɪkjuˈleɪʃn/",
-      "meaning": "n. 入学",
-      "example": "Matriculation requirements vary by institution.",
-      "exampleCn": "入学要求因学校而异。"
-    },
-    {
-      "word": "kindergarten",
-      "phonetic": "/ˈkɪndəɡɑːtn/",
-      "meaning": "n. 幼儿园",
-      "example": "Kindergarten lays the foundation for learning.",
-      "exampleCn": "幼儿园为学习打下基础。"
+      "word": "motivation",
+      "phonetic": "/ˌməʊtɪˈveɪʃn/",
+      "meaning": "n. 动力",
+      "example": "Intrinsic motivation is key to success.",
+      "exampleCn": "内在动力是成功的关键。"
     },
     {
       "word": "scholarship",
@@ -141,6 +71,13 @@
       "exampleCn": "她获得了全额奖学金出国学习。"
     },
     {
+      "word": "literacy",
+      "phonetic": "/ˈlɪtərəsi/",
+      "meaning": "n. 读写能力",
+      "example": "Digital literacy is as important as traditional literacy.",
+      "exampleCn": "数字素养与传统读写能力同等重要。"
+    },
+    {
       "word": "specialize",
       "phonetic": "/ˈspeʃəlaɪz/",
       "meaning": "v. 专攻",
@@ -148,18 +85,53 @@
       "exampleCn": "学生可以在第二年专攻。"
     },
     {
-      "word": "syllabus",
-      "phonetic": "/ˈsɪləbəs/",
-      "meaning": "n. 教学大纲",
-      "example": "The syllabus outlines all course requirements.",
-      "exampleCn": "教学大纲列出了所有课程要求。"
+      "word": "assessment",
+      "phonetic": "/əˈsesmənt/",
+      "meaning": "n. 评估",
+      "example": "Teachers use various forms of assessment.",
+      "exampleCn": "教师使用多种评估方式。"
     },
     {
-      "word": "nurture",
-      "phonetic": "/ˈnɜːtʃər/",
-      "meaning": "v. 培养",
-      "example": "Teachers should nurture curiosity in students.",
-      "exampleCn": "教师应培养学生好奇心。"
+      "word": "vocational",
+      "phonetic": "/vəʊˈkeɪʃənl/",
+      "meaning": "adj. 职业的",
+      "example": "Vocational training offers practical skills.",
+      "exampleCn": "职业培训提供实用技能。"
+    },
+    {
+      "word": "illiterate",
+      "phonetic": "/ɪˈlɪtərət/",
+      "meaning": "adj. 文盲的",
+      "example": "Efforts continue to reduce illiterate populations.",
+      "exampleCn": "继续努力减少文盲人口。"
+    },
+    {
+      "word": "plagiarism",
+      "phonetic": "/ˈpleɪdʒərɪzəm/",
+      "meaning": "n. 剽窃",
+      "example": "Plagiarism can result in severe penalties.",
+      "exampleCn": "剽窃可能导致严厉处罚。"
+    },
+    {
+      "word": "erudite",
+      "phonetic": "/ˈerudaɪt/",
+      "meaning": "adj. 博学的",
+      "example": "The erudite professor was respected by all.",
+      "exampleCn": "这位博学的教授受到所有人尊敬。"
+    },
+    {
+      "word": "rigorous",
+      "phonetic": "/ˈrɪɡərəs/",
+      "meaning": "adj. 严格的",
+      "example": "The program provides rigorous training.",
+      "exampleCn": "该计划提供严格的训练。"
+    },
+    {
+      "word": "seminar",
+      "phonetic": "/ˈsemɪnɑːr/",
+      "meaning": "n. 研讨会",
+      "example": "Weekly seminars encourage in-depth discussion.",
+      "exampleCn": "每周研讨会鼓励深入讨论。"
     },
     {
       "word": "curriculum vitae",
@@ -176,39 +148,81 @@
       "exampleCn": "分班让学生按自己的节奏学习。"
     },
     {
+      "word": "remedial",
+      "phonetic": "/rɪˈmiːdiəl/",
+      "meaning": "adj. 补习的， remedial",
+      "example": "Remedial classes help struggling students catch up.",
+      "exampleCn": "补习班帮助有困难的学生赶上来。"
+    },
+    {
+      "word": "cognitive",
+      "phonetic": "/ˈkɒɡnətɪv/",
+      "meaning": "adj. 认知的",
+      "example": "Early education boosts cognitive development.",
+      "exampleCn": "早期教育促进认知发展。"
+    },
+    {
+      "word": "enrolment",
+      "phonetic": "/ɪnˈrəʊlmənt/",
+      "meaning": "n. 注册，入学",
+      "example": "Enrolment in STEM courses has increased.",
+      "exampleCn": "STEM课程注册人数增加了。"
+    },
+    {
+      "word": "expel",
+      "phonetic": "/ɪkˈspel/",
+      "meaning": "v. 开除",
+      "example": "Schools rarely expel students except for severe cases.",
+      "exampleCn": "学校很少开除学生除非情况严重。"
+    },
+    {
+      "word": "matriculation",
+      "phonetic": "/məˌtrɪkjuˈleɪʃn/",
+      "meaning": "n. 入学",
+      "example": "Matriculation requirements vary by institution.",
+      "exampleCn": "入学要求因学校而异。"
+    },
+    {
+      "word": "diverse",
+      "phonetic": "/daɪˈvɜːs/",
+      "meaning": "adj. 多样的",
+      "example": "A diverse classroom benefits all learners.",
+      "exampleCn": "多样化的课堂使所有学习者受益。"
+    },
+    {
+      "word": "potential",
+      "phonetic": "/pəˈtenʃl/",
+      "meaning": "n./adj. 潜力",
+      "example": "Every student has unique potential.",
+      "exampleCn": "每个学生都有独特的潜力。"
+    },
+    {
+      "word": "tertiary",
+      "phonetic": "/ˈtɜːʃəri/",
+      "meaning": "adj. 高等教育的",
+      "example": "Tertiary education opens up more opportunities.",
+      "exampleCn": "高等教育打开更多机会。"
+    },
+    {
+      "word": "prodigy",
+      "phonetic": "/ˈprɒdədʒi/",
+      "meaning": "n. 天才，神童",
+      "example": "The child prodigy entered university at age twelve.",
+      "exampleCn": "这位神童十二岁进入大学。"
+    },
+    {
+      "word": "retention",
+      "phonetic": "/rɪˈtenʃn/",
+      "meaning": "n. 保持，记忆",
+      "example": "Active learning improves knowledge retention.",
+      "exampleCn": "主动学习提高知识保持率。"
+    },
+    {
       "word": "facilitate",
       "phonetic": "/fəˈsɪlɪteɪt/",
       "meaning": "v. 促进",
       "example": "Technology can facilitate personalized learning.",
       "exampleCn": "技术可以促进个性化学习。"
-    },
-    {
-      "word": "graduate",
-      "phonetic": "/ˈɡrædʒuət/",
-      "meaning": "n./v. 毕业生；毕业",
-      "example": "Graduates face a competitive job market.",
-      "exampleCn": "毕业生面临竞争激烈的就业市场。"
-    },
-    {
-      "word": "undergraduate",
-      "phonetic": "/ˌʌndəˈɡrædʒuət/",
-      "meaning": "n. 本科生",
-      "example": "Undergraduate programs typically last three years.",
-      "exampleCn": "本科课程通常为三年。"
-    },
-    {
-      "word": "didacticism",
-      "phonetic": "/daɪˈdæktɪsɪzəm/",
-      "meaning": "n. 教导主义",
-      "example": "Modern education moves away from pure didacticism.",
-      "exampleCn": "现代教育正在摆脱纯粹的教导主义。"
-    },
-    {
-      "word": "curriculum",
-      "phonetic": "/kəˈrɪkjələm/",
-      "meaning": "n. 课程",
-      "example": "The curriculum was redesigned to include coding.",
-      "exampleCn": "课程被重新设计以包含编程。"
     },
     {
       "word": "allocate",
@@ -225,60 +239,46 @@
       "exampleCn": "雇主重视知识和能力。"
     },
     {
-      "word": "potential",
-      "phonetic": "/pəˈtenʃl/",
-      "meaning": "n./adj. 潜力",
-      "example": "Every student has unique potential.",
-      "exampleCn": "每个学生都有独特的潜力。"
+      "word": "syllabus",
+      "phonetic": "/ˈsɪləbəs/",
+      "meaning": "n. 教学大纲",
+      "example": "The syllabus outlines all course requirements.",
+      "exampleCn": "教学大纲列出了所有课程要求。"
     },
     {
-      "word": "erudite",
-      "phonetic": "/ˈerudaɪt/",
-      "meaning": "adj. 博学的",
-      "example": "The erudite professor was respected by all.",
-      "exampleCn": "这位博学的教授受到所有人尊敬。"
+      "word": "pedagogy",
+      "phonetic": "/ˈpedəɡɒdʒi/",
+      "meaning": "n. 教学法",
+      "example": "Modern pedagogy focuses on critical thinking.",
+      "exampleCn": "现代教学法注重批判性思维。"
     },
     {
-      "word": "expel",
-      "phonetic": "/ɪkˈspel/",
-      "meaning": "v. 开除",
-      "example": "Schools rarely expel students except for severe cases.",
-      "exampleCn": "学校很少开除学生除非情况严重。"
+      "word": "graduate",
+      "phonetic": "/ˈɡrædʒuət/",
+      "meaning": "n./v. 毕业生；毕业",
+      "example": "Graduates face a competitive job market.",
+      "exampleCn": "毕业生面临竞争激烈的就业市场。"
     },
     {
-      "word": "rigorous",
-      "phonetic": "/ˈrɪɡərəs/",
-      "meaning": "adj. 严格的",
-      "example": "The program provides rigorous training.",
-      "exampleCn": "该计划提供严格的训练。"
+      "word": "dedicate",
+      "phonetic": "/ˈdedɪkeɪt/",
+      "meaning": "v. 致力于",
+      "example": "She dedicated herself to improving education.",
+      "exampleCn": "她致力于改善教育。"
     },
     {
-      "word": "academic",
-      "phonetic": "/ˌækəˈdemɪk/",
-      "meaning": "adj. 学术的",
-      "example": "She pursued an academic career in linguistics.",
-      "exampleCn": "她从事语言学学术生涯。"
+      "word": "comprehensive",
+      "phonetic": "/ˌkɒmprɪˈhensɪv/",
+      "meaning": "adj. 全面的",
+      "example": "A comprehensive education covers many fields.",
+      "exampleCn": "全面的教育涵盖多个领域。"
     },
     {
-      "word": "compulsory",
-      "phonetic": "/kəmˈpʌlsəri/",
-      "meaning": "adj. 强制的，必修的",
-      "example": "Physical education is compulsory in most schools.",
-      "exampleCn": "体育在大多数学校是必修的。"
-    },
-    {
-      "word": "tuition",
-      "phonetic": "/tjuˈɪʃn/",
-      "meaning": "n. 学费",
-      "example": "Rising tuition costs burden many families.",
-      "exampleCn": "上涨的学费给许多家庭带来负担。"
-    },
-    {
-      "word": "inequality",
-      "phonetic": "/ˌɪnɪˈkwɒləti/",
-      "meaning": "n. 不平等",
-      "example": "Educational inequality remains a challenge.",
-      "exampleCn": "教育不平等仍是一个挑战。"
+      "word": "didactic",
+      "phonetic": "/daɪˈdæktɪk/",
+      "meaning": "adj. 教学的",
+      "example": "Didactic materials support structured learning.",
+      "exampleCn": "教学材料支持结构化学习。"
     }
   ],
   "reading": {

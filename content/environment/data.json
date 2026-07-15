@@ -1,158 +1,11 @@
 {
   "words": [
     {
-      "word": "habitat",
-      "phonetic": "/ˈhæbɪtæt/",
-      "meaning": "n. 栖息地",
-      "example": "Urban expansion destroys natural habitats.",
-      "exampleCn": "城市扩张破坏自然栖息地。"
-    },
-    {
-      "word": "photosynthesis",
-      "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
-      "meaning": "n. 光合作用",
-      "example": "Trees absorb CO2 through photosynthesis.",
-      "exampleCn": "树木通过光合作用吸收二氧化碳。"
-    },
-    {
-      "word": "reforestation",
-      "phonetic": "/ˌriːfɒrɪˈsteɪʃn/",
-      "meaning": "n. 重新造林",
-      "example": "Reforestation helps restore damaged land.",
-      "exampleCn": "重新造林有助于恢复受损土地。"
-    },
-    {
-      "word": "pollutant",
-      "phonetic": "/pəˈluːtənt/",
-      "meaning": "n. 污染物",
-      "example": "Air pollutants affect respiratory health.",
-      "exampleCn": "空气污染物影响呼吸健康。"
-    },
-    {
-      "word": "recycle",
-      "phonetic": "/ˌriːˈsaɪkl/",
-      "meaning": "v. 回收",
-      "example": "Households should recycle more diligently.",
-      "exampleCn": "家庭应更认真地回收。"
-    },
-    {
-      "word": "contaminate",
-      "phonetic": "/kənˈtæmɪneɪt/",
-      "meaning": "v. 污染",
-      "example": "Industrial waste can contaminate water sources.",
-      "exampleCn": "工业废物会污染水源。"
-    },
-    {
-      "word": "environmentalist",
-      "phonetic": "/ɪnˌvaɪrənˈmentəlɪst/",
-      "meaning": "n. 环保人士",
-      "example": "Environmentalists push for stronger climate policies.",
-      "exampleCn": "环保人士推动更强气候政策。"
-    },
-    {
-      "word": "deforestation",
-      "phonetic": "/ˌdiːfɒrɪˈsteɪʃn/",
-      "meaning": "n. 森林砍伐",
-      "example": "Deforestation accelerates climate change.",
-      "exampleCn": "森林砍伐加速气候变化。"
-    },
-    {
-      "word": "sustainable",
-      "phonetic": "/səˈsteɪnəbl/",
-      "meaning": "adj. 可持续的",
-      "example": "Sustainable practices are vital for the planet.",
-      "exampleCn": "可持续实践对地球至关重要。"
-    },
-    {
-      "word": "greenwashing",
-      "phonetic": "/ˈɡriːnwɒʃɪŋ/",
-      "meaning": "n. 漂绿",
-      "example": "Consumers are increasingly skeptical of greenwashing.",
-      "exampleCn": "消费者对漂绿行为越来越警惕。"
-    },
-    {
-      "word": "energy-efficient",
-      "phonetic": "/ˈenədʒi ɪˈfɪʃnt/",
-      "meaning": "adj. 节能的",
-      "example": "Energy-efficient homes reduce utility bills.",
-      "exampleCn": "节能房屋减少水电费。"
-    },
-    {
-      "word": "extinction",
-      "phonetic": "/ɪkˈstɪŋkʃn/",
-      "meaning": "n. 灭绝",
-      "example": "Many species face the threat of extinction.",
-      "exampleCn": "许多物种面临灭绝威胁。"
-    },
-    {
-      "word": "greenhouse effect",
-      "phonetic": "/ˈɡriːnhaʊs ɪˈfekt/",
-      "meaning": "n. 温室效应",
-      "example": "The greenhouse effect is causing global warming.",
-      "exampleCn": "温室效应导致全球变暖。"
-    },
-    {
-      "word": "endangered",
-      "phonetic": "/ɪnˈdeɪndʒəd/",
-      "meaning": "adj. 濒危的",
-      "example": "The panda is no longer classified as endangered.",
-      "exampleCn": "大熊猫不再被列为濒危物种。"
-    },
-    {
-      "word": "conservation area",
-      "phonetic": "/ˌkɒnsəˈveɪʃn ˈeəriə/",
-      "meaning": "n. 保护区",
-      "example": "National parks are vital conservation areas.",
-      "exampleCn": "国家公园是重要的保护区。"
-    },
-    {
-      "word": "toxic",
-      "phonetic": "/ˈtɒksɪk/",
-      "meaning": "adj. 有毒的",
-      "example": "Toxic chemicals must be disposed of safely.",
-      "exampleCn": "有毒化学品必须安全处理。"
-    },
-    {
-      "word": "urbanization",
-      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
-      "meaning": "n. 城市化",
-      "example": "Rapid urbanization strains natural resources.",
-      "exampleCn": "快速城市化给自然资源带来压力。"
-    },
-    {
-      "word": "mitigate",
-      "phonetic": "/ˈmɪtɪɡeɪt/",
-      "meaning": "v. 减轻，缓解",
-      "example": "We must mitigate the effects of climate change.",
-      "exampleCn": "我们必须减轻气候变化的影响。"
-    },
-    {
-      "word": "carbon footprint",
-      "phonetic": "/ˈkɑːbən ˈfʊtprɪnt/",
-      "meaning": "n. 碳足迹",
-      "example": "Everyone should try to reduce their carbon footprint.",
-      "exampleCn": "每个人都应努力减少碳足迹。"
-    },
-    {
-      "word": "renewable",
-      "phonetic": "/rɪˈnjuːəbl/",
-      "meaning": "adj. 可再生的",
-      "example": "Solar power is a renewable energy source.",
-      "exampleCn": "太阳能是可再生能源。"
-    },
-    {
-      "word": "emission reduction",
-      "phonetic": "/ɪˈmɪʃn rɪˈdʌkʃn/",
-      "meaning": "n. 减排",
-      "example": "Countries set ambitious emission reduction targets.",
-      "exampleCn": "各国设定雄心勃勃的减排目标。"
-    },
-    {
-      "word": "depletion",
-      "phonetic": "/dɪˈpliːʃn/",
-      "meaning": "n. 耗竭",
-      "example": "Ozone depletion is a serious concern.",
-      "exampleCn": "臭氧耗竭是一个严重问题。"
+      "word": "biodegradable",
+      "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+      "meaning": "adj. 可生物降解的",
+      "example": "Biodegradable packaging reduces plastic waste.",
+      "exampleCn": "可生物降解包装减少塑料废物。"
     },
     {
       "word": "conservationist",
@@ -162,11 +15,116 @@
       "exampleCn": "环保人士在政策倡导中发挥关键作用。"
     },
     {
-      "word": "afforestation",
-      "phonetic": "/əˌfɒrɪˈsteɪʃn/",
-      "meaning": "n. 造林",
-      "example": "Afforestation programs help combat desertification.",
-      "exampleCn": "造林计划有助于防治荒漠化。"
+      "word": "emission reduction",
+      "phonetic": "/ɪˈmɪʃn rɪˈdʌkʃn/",
+      "meaning": "n. 减排",
+      "example": "Countries set ambitious emission reduction targets.",
+      "exampleCn": "各国设定雄心勃勃的减排目标。"
+    },
+    {
+      "word": "habitat",
+      "phonetic": "/ˈhæbɪtæt/",
+      "meaning": "n. 栖息地",
+      "example": "Urban expansion destroys natural habitats.",
+      "exampleCn": "城市扩张破坏自然栖息地。"
+    },
+    {
+      "word": "carbon sink",
+      "phonetic": "/ˈkɑːbən sɪŋk/",
+      "meaning": "n. 碳汇",
+      "example": "Forests act as important carbon sinks.",
+      "exampleCn": "森林充当重要的碳汇。"
+    },
+    {
+      "word": "marine",
+      "phonetic": "/məˈriːn/",
+      "meaning": "adj. 海洋的",
+      "example": "Marine life is threatened by plastic pollution.",
+      "exampleCn": "海洋生物受到塑料污染的威胁。"
+    },
+    {
+      "word": "pollutant",
+      "phonetic": "/pəˈluːtənt/",
+      "meaning": "n. 污染物",
+      "example": "Air pollutants affect respiratory health.",
+      "exampleCn": "空气污染物影响呼吸健康。"
+    },
+    {
+      "word": "toxic",
+      "phonetic": "/ˈtɒksɪk/",
+      "meaning": "adj. 有毒的",
+      "example": "Toxic chemicals must be disposed of safely.",
+      "exampleCn": "有毒化学品必须安全处理。"
+    },
+    {
+      "word": "recycle",
+      "phonetic": "/ˌriːˈsaɪkl/",
+      "meaning": "v. 回收",
+      "example": "Households should recycle more diligently.",
+      "exampleCn": "家庭应更认真地回收。"
+    },
+    {
+      "word": "renewable resource",
+      "phonetic": "/rɪˈnjuːəbl rɪˈsɔːs/",
+      "meaning": "n. 可再生资源",
+      "example": "Water is a renewable resource but needs care.",
+      "exampleCn": "水是可再生资源但需要谨慎管理。"
+    },
+    {
+      "word": "renewable",
+      "phonetic": "/rɪˈnjuːəbl/",
+      "meaning": "adj. 可再生的",
+      "example": "Solar power is a renewable energy source.",
+      "exampleCn": "太阳能是可再生能源。"
+    },
+    {
+      "word": "environmental degradation",
+      "phonetic": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
+      "meaning": "n. 环境退化",
+      "example": "Environmental degradation has accelerated in recent decades.",
+      "exampleCn": "环境退化在近几十年加速。"
+    },
+    {
+      "word": "eco-friendly",
+      "phonetic": "/ˈiːkəʊ ˈfrendli/",
+      "meaning": "adj. 环保的",
+      "example": "Eco-friendly products are gaining market share.",
+      "exampleCn": "环保产品获得市场份额。"
+    },
+    {
+      "word": "photosynthesis",
+      "phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+      "meaning": "n. 光合作用",
+      "example": "Trees absorb CO2 through photosynthesis.",
+      "exampleCn": "树木通过光合作用吸收二氧化碳。"
+    },
+    {
+      "word": "ecological",
+      "phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+      "meaning": "adj. 生态的",
+      "example": "Urban sprawl has major ecological impacts.",
+      "exampleCn": "城市扩张有重大生态影响。"
+    },
+    {
+      "word": "emission",
+      "phonetic": "/ɪˈmɪʃn/",
+      "meaning": "n. 排放",
+      "example": "Factories must reduce harmful emissions.",
+      "exampleCn": "工厂必须减少有害排放。"
+    },
+    {
+      "word": "deforestation",
+      "phonetic": "/ˌdiːfɒrɪˈsteɪʃn/",
+      "meaning": "n. 森林砍伐",
+      "example": "Deforestation accelerates climate change.",
+      "exampleCn": "森林砍伐加速气候变化。"
+    },
+    {
+      "word": "contaminate",
+      "phonetic": "/kənˈtæmɪneɪt/",
+      "meaning": "v. 污染",
+      "example": "Industrial waste can contaminate water sources.",
+      "exampleCn": "工业废物会污染水源。"
     },
     {
       "word": "legislation",
@@ -183,13 +141,6 @@
       "exampleCn": "荒漠化每年影响数百万公顷。"
     },
     {
-      "word": "renewable resource",
-      "phonetic": "/rɪˈnjuːəbl rɪˈsɔːs/",
-      "meaning": "n. 可再生资源",
-      "example": "Water is a renewable resource but needs care.",
-      "exampleCn": "水是可再生资源但需要谨慎管理。"
-    },
-    {
       "word": "global warming",
       "phonetic": "/ˈɡləʊbl ˈwɔːmɪŋ/",
       "meaning": "n. 全球变暖",
@@ -197,18 +148,18 @@
       "exampleCn": "全球变暖威胁沿海社区。"
     },
     {
-      "word": "degradation",
-      "phonetic": "/ˌdeɡrəˈdeɪʃn/",
-      "meaning": "n. 退化",
-      "example": "Land degradation threatens food security.",
-      "exampleCn": "土地退化威胁粮食安全。"
+      "word": "carbon footprint",
+      "phonetic": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "n. 碳足迹",
+      "example": "Everyone should try to reduce their carbon footprint.",
+      "exampleCn": "每个人都应努力减少碳足迹。"
     },
     {
-      "word": "environmental degradation",
-      "phonetic": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
-      "meaning": "n. 环境退化",
-      "example": "Environmental degradation has accelerated in recent decades.",
-      "exampleCn": "环境退化在近几十年加速。"
+      "word": "mitigate",
+      "phonetic": "/ˈmɪtɪɡeɪt/",
+      "meaning": "v. 减轻，缓解",
+      "example": "We must mitigate the effects of climate change.",
+      "exampleCn": "我们必须减轻气候变化的影响。"
     },
     {
       "word": "preservation",
@@ -218,18 +169,39 @@
       "exampleCn": "保护湿地是优先事项。"
     },
     {
-      "word": "eco-friendly",
-      "phonetic": "/ˈiːkəʊ ˈfrendli/",
-      "meaning": "adj. 环保的",
-      "example": "Eco-friendly products are gaining market share.",
-      "exampleCn": "环保产品获得市场份额。"
+      "word": "waste management",
+      "phonetic": "/weɪst ˈmænɪdʒmənt/",
+      "meaning": "n. 废物管理",
+      "example": "Effective waste management is crucial for cities.",
+      "exampleCn": "有效的废物管理对城市至关重要。"
     },
     {
-      "word": "carbon neutral",
-      "phonetic": "/ˈkɑːbən ˈnjuːtrəl/",
-      "meaning": "adj. 碳中和的",
-      "example": "Many companies aim to become carbon neutral.",
-      "exampleCn": "许多公司目标是实现碳中和。"
+      "word": "anthropogenic",
+      "phonetic": "/ˌænθrəpəˈdʒenɪk/",
+      "meaning": "adj. 人为的",
+      "example": "Anthropogenic emissions are the main cause of global warming.",
+      "exampleCn": "人为排放是全球变暖的主因。"
+    },
+    {
+      "word": "greenhouse effect",
+      "phonetic": "/ˈɡriːnhaʊs ɪˈfekt/",
+      "meaning": "n. 温室效应",
+      "example": "The greenhouse effect is causing global warming.",
+      "exampleCn": "温室效应导致全球变暖。"
+    },
+    {
+      "word": "climate",
+      "phonetic": "/ˈklaɪmət/",
+      "meaning": "n. 气候",
+      "example": "Climate patterns are shifting dramatically.",
+      "exampleCn": "气候模式正在剧烈变化。"
+    },
+    {
+      "word": "urbanization",
+      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+      "meaning": "n. 城市化",
+      "example": "Rapid urbanization strains natural resources.",
+      "exampleCn": "快速城市化给自然资源带来压力。"
     },
     {
       "word": "renewable energy",
@@ -239,6 +211,34 @@
       "exampleCn": "可再生能源投资快速增长。"
     },
     {
+      "word": "conservation area",
+      "phonetic": "/ˌkɒnsəˈveɪʃn ˈeəriə/",
+      "meaning": "n. 保护区",
+      "example": "National parks are vital conservation areas.",
+      "exampleCn": "国家公园是重要的保护区。"
+    },
+    {
+      "word": "carbon neutral",
+      "phonetic": "/ˈkɑːbən ˈnjuːtrəl/",
+      "meaning": "adj. 碳中和的",
+      "example": "Many companies aim to become carbon neutral.",
+      "exampleCn": "许多公司目标是实现碳中和。"
+    },
+    {
+      "word": "environmentalist",
+      "phonetic": "/ɪnˌvaɪrənˈmentəlɪst/",
+      "meaning": "n. 环保人士",
+      "example": "Environmentalists push for stronger climate policies.",
+      "exampleCn": "环保人士推动更强气候政策。"
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪər/",
+      "meaning": "n. 大气层",
+      "example": "Greenhouse gases trap heat in the atmosphere.",
+      "exampleCn": "温室气体在大气中捕获热量。"
+    },
+    {
       "word": "ecological footprint",
       "phonetic": "/ˌiːkəˈlɒdʒɪkl ˈfʊtprɪnt/",
       "meaning": "n. 生态足迹",
@@ -246,39 +246,39 @@
       "exampleCn": "减少我们的生态足迹至关重要。"
     },
     {
-      "word": "conservation",
-      "phonetic": "/ˌkɒnsəˈveɪʃn/",
-      "meaning": "n. 保护",
-      "example": "Conservation programs protect endangered species.",
-      "exampleCn": "保护项目保护濒危物种。"
+      "word": "overconsumption",
+      "phonetic": "/ˌəʊvəkənˈsʌmpʃn/",
+      "meaning": "n. 过度消费",
+      "example": "Overconsumption of resources is unsustainable.",
+      "exampleCn": "过度消费资源是不可持续的。"
     },
     {
-      "word": "adaptation",
-      "phonetic": "/ˌædæpˈteɪʃn/",
-      "meaning": "n. 适应",
-      "example": "Climate adaptation plans are needed globally.",
-      "exampleCn": "全球需要气候适应计划。"
+      "word": "ecosystem",
+      "phonetic": "/ˈiːkəʊsɪstəm/",
+      "meaning": "n. 生态系统",
+      "example": "Coral reefs are delicate ecosystems.",
+      "exampleCn": "珊瑚礁是脆弱的生态系统。"
     },
     {
-      "word": "tectonic",
-      "phonetic": "/tekˈtɒnɪk/",
-      "meaning": "adj. 地壳构造的",
-      "example": "Tectonic activity shapes the Earth's surface.",
-      "exampleCn": "地壳构造活动塑造地球表面。"
+      "word": "conservationist",
+      "phonetic": "/ˌkɒnsəˈveɪʃənɪst/",
+      "meaning": "n. 环保主义者",
+      "example": "Conservationists campaign for wildlife protection.",
+      "exampleCn": "环保主义者为野生动物保护而行动。"
     },
     {
-      "word": "emission",
-      "phonetic": "/ɪˈmɪʃn/",
-      "meaning": "n. 排放",
-      "example": "Factories must reduce harmful emissions.",
-      "exampleCn": "工厂必须减少有害排放。"
+      "word": "energy-efficient",
+      "phonetic": "/ˈenədʒi ɪˈfɪʃnt/",
+      "meaning": "adj. 节能的",
+      "example": "Energy-efficient homes reduce utility bills.",
+      "exampleCn": "节能房屋减少水电费。"
     },
     {
-      "word": "waste management",
-      "phonetic": "/weɪst ˈmænɪdʒmənt/",
-      "meaning": "n. 废物管理",
-      "example": "Effective waste management is crucial for cities.",
-      "exampleCn": "有效的废物管理对城市至关重要。"
+      "word": "afforestation",
+      "phonetic": "/əˌfɒrɪˈsteɪʃn/",
+      "meaning": "n. 造林",
+      "example": "Afforestation programs help combat desertification.",
+      "exampleCn": "造林计划有助于防治荒漠化。"
     }
   ],
   "reading": {
