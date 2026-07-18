@@ -1,174 +1,6 @@
 {
   "words": [
     {
-      "word": "afforestation",
-      "phonetic": "/əˌfɒrɪˈsteɪʃn/",
-      "meaning": "n. 造林",
-      "example": "Afforestation programs help combat desertification.",
-      "exampleCn": "造林计划有助于防治荒漠化。"
-    },
-    {
-      "word": "renewable resource",
-      "phonetic": "/rɪˈnjuːəbl rɪˈsɔːs/",
-      "meaning": "n. 可再生资源",
-      "example": "Water is a renewable resource but needs care.",
-      "exampleCn": "水是可再生资源但需要谨慎管理。"
-    },
-    {
-      "word": "eco-friendly",
-      "phonetic": "/ˈiːkəʊ ˈfrendli/",
-      "meaning": "adj. 环保的",
-      "example": "Eco-friendly products are gaining market share.",
-      "exampleCn": "环保产品获得市场份额。"
-    },
-    {
-      "word": "ecosystem",
-      "phonetic": "/ˈiːkəʊsɪstəm/",
-      "meaning": "n. 生态系统",
-      "example": "Coral reefs are delicate ecosystems.",
-      "exampleCn": "珊瑚礁是脆弱的生态系统。"
-    },
-    {
-      "word": "pollutant",
-      "phonetic": "/pəˈluːtənt/",
-      "meaning": "n. 污染物",
-      "example": "Air pollutants affect respiratory health.",
-      "exampleCn": "空气污染物影响呼吸健康。"
-    },
-    {
-      "word": "climate",
-      "phonetic": "/ˈklaɪmət/",
-      "meaning": "n. 气候",
-      "example": "Climate patterns are shifting dramatically.",
-      "exampleCn": "气候模式正在剧烈变化。"
-    },
-    {
-      "word": "urbanization",
-      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
-      "meaning": "n. 城市化",
-      "example": "Rapid urbanization strains natural resources.",
-      "exampleCn": "快速城市化给自然资源带来压力。"
-    },
-    {
-      "word": "contaminate",
-      "phonetic": "/kənˈtæmɪneɪt/",
-      "meaning": "v. 污染",
-      "example": "Industrial waste can contaminate water sources.",
-      "exampleCn": "工业废物会污染水源。"
-    },
-    {
-      "word": "emission reduction",
-      "phonetic": "/ɪˈmɪʃn rɪˈdʌkʃn/",
-      "meaning": "n. 减排",
-      "example": "Countries set ambitious emission reduction targets.",
-      "exampleCn": "各国设定雄心勃勃的减排目标。"
-    },
-    {
-      "word": "extinction",
-      "phonetic": "/ɪkˈstɪŋkʃn/",
-      "meaning": "n. 灭绝",
-      "example": "Many species face the threat of extinction.",
-      "exampleCn": "许多物种面临灭绝威胁。"
-    },
-    {
-      "word": "renewable energy",
-      "phonetic": "/rɪˈnjuːəbl ˈenədʒi/",
-      "meaning": "n. 可再生能源",
-      "example": "Investment in renewable energy is growing rapidly.",
-      "exampleCn": "可再生能源投资快速增长。"
-    },
-    {
-      "word": "ecological",
-      "phonetic": "/ˌiːkəˈlɒdʒɪkl/",
-      "meaning": "adj. 生态的",
-      "example": "Urban sprawl has major ecological impacts.",
-      "exampleCn": "城市扩张有重大生态影响。"
-    },
-    {
-      "word": "marine",
-      "phonetic": "/məˈriːn/",
-      "meaning": "adj. 海洋的",
-      "example": "Marine life is threatened by plastic pollution.",
-      "exampleCn": "海洋生物受到塑料污染的威胁。"
-    },
-    {
-      "word": "legislation",
-      "phonetic": "/ˌledʒɪsˈleɪʃn/",
-      "meaning": "n. 立法",
-      "example": "Environmental legislation has become more stringent.",
-      "exampleCn": "环境立法变得越来越严格。"
-    },
-    {
-      "word": "renewable",
-      "phonetic": "/rɪˈnjuːəbl/",
-      "meaning": "adj. 可再生的",
-      "example": "Solar power is a renewable energy source.",
-      "exampleCn": "太阳能是可再生能源。"
-    },
-    {
-      "word": "toxic",
-      "phonetic": "/ˈtɒksɪk/",
-      "meaning": "adj. 有毒的",
-      "example": "Toxic chemicals must be disposed of safely.",
-      "exampleCn": "有毒化学品必须安全处理。"
-    },
-    {
-      "word": "greenwashing",
-      "phonetic": "/ˈɡriːnwɒʃɪŋ/",
-      "meaning": "n. 漂绿",
-      "example": "Consumers are increasingly skeptical of greenwashing.",
-      "exampleCn": "消费者对漂绿行为越来越警惕。"
-    },
-    {
-      "word": "anthropogenic",
-      "phonetic": "/ˌænθrəpəˈdʒenɪk/",
-      "meaning": "adj. 人为的",
-      "example": "Anthropogenic emissions are the main cause of global warming.",
-      "exampleCn": "人为排放是全球变暖的主因。"
-    },
-    {
-      "word": "fossil fuel",
-      "phonetic": "/ˈfɒsl ˈfjuːəl/",
-      "meaning": "n. 化石燃料",
-      "example": "Burning fossil fuels releases carbon dioxide.",
-      "exampleCn": "燃烧化石燃料释放二氧化碳。"
-    },
-    {
-      "word": "environmentalist",
-      "phonetic": "/ɪnˌvaɪrənˈmentəlɪst/",
-      "meaning": "n. 环保人士",
-      "example": "Environmentalists push for stronger climate policies.",
-      "exampleCn": "环保人士推动更强气候政策。"
-    },
-    {
-      "word": "conservation",
-      "phonetic": "/ˌkɒnsəˈveɪʃn/",
-      "meaning": "n. 保护",
-      "example": "Conservation programs protect endangered species.",
-      "exampleCn": "保护项目保护濒危物种。"
-    },
-    {
-      "word": "greenhouse effect",
-      "phonetic": "/ˈɡriːnhaʊs ɪˈfekt/",
-      "meaning": "n. 温室效应",
-      "example": "The greenhouse effect is causing global warming.",
-      "exampleCn": "温室效应导致全球变暖。"
-    },
-    {
-      "word": "atmosphere",
-      "phonetic": "/ˈætməsfɪər/",
-      "meaning": "n. 大气层",
-      "example": "Greenhouse gases trap heat in the atmosphere.",
-      "exampleCn": "温室气体在大气中捕获热量。"
-    },
-    {
-      "word": "preservation",
-      "phonetic": "/ˌprezəˈveɪʃn/",
-      "meaning": "n. 保存，保护",
-      "example": "The preservation of wetlands is a priority.",
-      "exampleCn": "保护湿地是优先事项。"
-    },
-    {
       "word": "mitigate",
       "phonetic": "/ˈmɪtɪɡeɪt/",
       "meaning": "v. 减轻，缓解",
@@ -176,39 +8,11 @@
       "exampleCn": "我们必须减轻气候变化的影响。"
     },
     {
-      "word": "carbon sink",
-      "phonetic": "/ˈkɑːbən sɪŋk/",
-      "meaning": "n. 碳汇",
-      "example": "Forests act as important carbon sinks.",
-      "exampleCn": "森林充当重要的碳汇。"
-    },
-    {
-      "word": "ecological footprint",
-      "phonetic": "/ˌiːkəˈlɒdʒɪkl ˈfʊtprɪnt/",
-      "meaning": "n. 生态足迹",
-      "example": "Reducing our ecological footprint is essential.",
-      "exampleCn": "减少我们的生态足迹至关重要。"
-    },
-    {
-      "word": "environmental degradation",
-      "phonetic": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
-      "meaning": "n. 环境退化",
-      "example": "Environmental degradation has accelerated in recent decades.",
-      "exampleCn": "环境退化在近几十年加速。"
-    },
-    {
-      "word": "carbon neutral",
-      "phonetic": "/ˈkɑːbən ˈnjuːtrəl/",
-      "meaning": "adj. 碳中和的",
-      "example": "Many companies aim to become carbon neutral.",
-      "exampleCn": "许多公司目标是实现碳中和。"
-    },
-    {
-      "word": "habitat",
-      "phonetic": "/ˈhæbɪtæt/",
-      "meaning": "n. 栖息地",
-      "example": "Urban expansion destroys natural habitats.",
-      "exampleCn": "城市扩张破坏自然栖息地。"
+      "word": "overconsumption",
+      "phonetic": "/ˌəʊvəkənˈsʌmpʃn/",
+      "meaning": "n. 过度消费",
+      "example": "Overconsumption of resources is unsustainable.",
+      "exampleCn": "过度消费资源是不可持续的。"
     },
     {
       "word": "tectonic",
@@ -218,32 +22,46 @@
       "exampleCn": "地壳构造活动塑造地球表面。"
     },
     {
-      "word": "endangered",
-      "phonetic": "/ɪnˈdeɪndʒəd/",
-      "meaning": "adj. 濒危的",
-      "example": "The panda is no longer classified as endangered.",
-      "exampleCn": "大熊猫不再被列为濒危物种。"
+      "word": "desertification",
+      "phonetic": "/dɪˌzɜːtɪfɪˈkeɪʃn/",
+      "meaning": "n. 荒漠化",
+      "example": "Desertification affects millions of hectares annually.",
+      "exampleCn": "荒漠化每年影响数百万公顷。"
     },
     {
-      "word": "conservationist",
-      "phonetic": "/ˌkɒnsəˈveɪʃənɪst/",
-      "meaning": "n. 环保人士",
-      "example": "Conservationists play a key role in policy advocacy.",
-      "exampleCn": "环保人士在政策倡导中发挥关键作用。"
+      "word": "carbon sink",
+      "phonetic": "/ˈkɑːbən sɪŋk/",
+      "meaning": "n. 碳汇",
+      "example": "Forests act as important carbon sinks.",
+      "exampleCn": "森林充当重要的碳汇。"
     },
     {
-      "word": "depletion",
-      "phonetic": "/dɪˈpliːʃn/",
-      "meaning": "n. 耗竭",
-      "example": "Ozone depletion is a serious concern.",
-      "exampleCn": "臭氧耗竭是一个严重问题。"
+      "word": "urbanization",
+      "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+      "meaning": "n. 城市化",
+      "example": "Rapid urbanization strains natural resources.",
+      "exampleCn": "快速城市化给自然资源带来压力。"
     },
     {
-      "word": "biodegradable",
-      "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
-      "meaning": "adj. 可生物降解的",
-      "example": "Biodegradable packaging reduces plastic waste.",
-      "exampleCn": "可生物降解包装减少塑料废物。"
+      "word": "recycle",
+      "phonetic": "/ˌriːˈsaɪkl/",
+      "meaning": "v. 回收",
+      "example": "Households should recycle more diligently.",
+      "exampleCn": "家庭应更认真地回收。"
+    },
+    {
+      "word": "climate",
+      "phonetic": "/ˈklaɪmət/",
+      "meaning": "n. 气候",
+      "example": "Climate patterns are shifting dramatically.",
+      "exampleCn": "气候模式正在剧烈变化。"
+    },
+    {
+      "word": "contaminate",
+      "phonetic": "/kənˈtæmɪneɪt/",
+      "meaning": "v. 污染",
+      "example": "Industrial waste can contaminate water sources.",
+      "exampleCn": "工业废物会污染水源。"
     },
     {
       "word": "sustainable",
@@ -253,11 +71,81 @@
       "exampleCn": "可持续实践对地球至关重要。"
     },
     {
-      "word": "waste management",
-      "phonetic": "/weɪst ˈmænɪdʒmənt/",
-      "meaning": "n. 废物管理",
-      "example": "Effective waste management is crucial for cities.",
-      "exampleCn": "有效的废物管理对城市至关重要。"
+      "word": "global warming",
+      "phonetic": "/ˈɡləʊbl ˈwɔːmɪŋ/",
+      "meaning": "n. 全球变暖",
+      "example": "Global warming threatens coastal communities.",
+      "exampleCn": "全球变暖威胁沿海社区。"
+    },
+    {
+      "word": "habitat",
+      "phonetic": "/ˈhæbɪtæt/",
+      "meaning": "n. 栖息地",
+      "example": "Urban expansion destroys natural habitats.",
+      "exampleCn": "城市扩张破坏自然栖息地。"
+    },
+    {
+      "word": "greenhouse effect",
+      "phonetic": "/ˈɡriːnhaʊs ɪˈfekt/",
+      "meaning": "n. 温室效应",
+      "example": "The greenhouse effect is causing global warming.",
+      "exampleCn": "温室效应导致全球变暖。"
+    },
+    {
+      "word": "emission reduction",
+      "phonetic": "/ɪˈmɪʃn rɪˈdʌkʃn/",
+      "meaning": "n. 减排",
+      "example": "Countries set ambitious emission reduction targets.",
+      "exampleCn": "各国设定雄心勃勃的减排目标。"
+    },
+    {
+      "word": "ecological",
+      "phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+      "meaning": "adj. 生态的",
+      "example": "Urban sprawl has major ecological impacts.",
+      "exampleCn": "城市扩张有重大生态影响。"
+    },
+    {
+      "word": "adaptation",
+      "phonetic": "/ˌædæpˈteɪʃn/",
+      "meaning": "n. 适应",
+      "example": "Climate adaptation plans are needed globally.",
+      "exampleCn": "全球需要气候适应计划。"
+    },
+    {
+      "word": "marine",
+      "phonetic": "/məˈriːn/",
+      "meaning": "adj. 海洋的",
+      "example": "Marine life is threatened by plastic pollution.",
+      "exampleCn": "海洋生物受到塑料污染的威胁。"
+    },
+    {
+      "word": "extinction",
+      "phonetic": "/ɪkˈstɪŋkʃn/",
+      "meaning": "n. 灭绝",
+      "example": "Many species face the threat of extinction.",
+      "exampleCn": "许多物种面临灭绝威胁。"
+    },
+    {
+      "word": "biodegradable",
+      "phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+      "meaning": "adj. 可生物降解的",
+      "example": "Biodegradable packaging reduces plastic waste.",
+      "exampleCn": "可生物降解包装减少塑料废物。"
+    },
+    {
+      "word": "legislation",
+      "phonetic": "/ˌledʒɪsˈleɪʃn/",
+      "meaning": "n. 立法",
+      "example": "Environmental legislation has become more stringent.",
+      "exampleCn": "环境立法变得越来越严格。"
+    },
+    {
+      "word": "carbon footprint",
+      "phonetic": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "n. 碳足迹",
+      "example": "Everyone should try to reduce their carbon footprint.",
+      "exampleCn": "每个人都应努力减少碳足迹。"
     },
     {
       "word": "conservationist",
@@ -267,11 +155,123 @@
       "exampleCn": "环保主义者为野生动物保护而行动。"
     },
     {
+      "word": "renewable resource",
+      "phonetic": "/rɪˈnjuːəbl rɪˈsɔːs/",
+      "meaning": "n. 可再生资源",
+      "example": "Water is a renewable resource but needs care.",
+      "exampleCn": "水是可再生资源但需要谨慎管理。"
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪər/",
+      "meaning": "n. 大气层",
+      "example": "Greenhouse gases trap heat in the atmosphere.",
+      "exampleCn": "温室气体在大气中捕获热量。"
+    },
+    {
+      "word": "waste management",
+      "phonetic": "/weɪst ˈmænɪdʒmənt/",
+      "meaning": "n. 废物管理",
+      "example": "Effective waste management is crucial for cities.",
+      "exampleCn": "有效的废物管理对城市至关重要。"
+    },
+    {
+      "word": "renewable energy",
+      "phonetic": "/rɪˈnjuːəbl ˈenədʒi/",
+      "meaning": "n. 可再生能源",
+      "example": "Investment in renewable energy is growing rapidly.",
+      "exampleCn": "可再生能源投资快速增长。"
+    },
+    {
+      "word": "conservation",
+      "phonetic": "/ˌkɒnsəˈveɪʃn/",
+      "meaning": "n. 保护",
+      "example": "Conservation programs protect endangered species.",
+      "exampleCn": "保护项目保护濒危物种。"
+    },
+    {
+      "word": "renewable",
+      "phonetic": "/rɪˈnjuːəbl/",
+      "meaning": "adj. 可再生的",
+      "example": "Solar power is a renewable energy source.",
+      "exampleCn": "太阳能是可再生能源。"
+    },
+    {
+      "word": "reforestation",
+      "phonetic": "/ˌriːfɒrɪˈsteɪʃn/",
+      "meaning": "n. 重新造林",
+      "example": "Reforestation helps restore damaged land.",
+      "exampleCn": "重新造林有助于恢复受损土地。"
+    },
+    {
+      "word": "environmental degradation",
+      "phonetic": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
+      "meaning": "n. 环境退化",
+      "example": "Environmental degradation has accelerated in recent decades.",
+      "exampleCn": "环境退化在近几十年加速。"
+    },
+    {
+      "word": "toxic",
+      "phonetic": "/ˈtɒksɪk/",
+      "meaning": "adj. 有毒的",
+      "example": "Toxic chemicals must be disposed of safely.",
+      "exampleCn": "有毒化学品必须安全处理。"
+    },
+    {
+      "word": "carbon neutral",
+      "phonetic": "/ˈkɑːbən ˈnjuːtrəl/",
+      "meaning": "adj. 碳中和的",
+      "example": "Many companies aim to become carbon neutral.",
+      "exampleCn": "许多公司目标是实现碳中和。"
+    },
+    {
+      "word": "ecological footprint",
+      "phonetic": "/ˌiːkəˈlɒdʒɪkl ˈfʊtprɪnt/",
+      "meaning": "n. 生态足迹",
+      "example": "Reducing our ecological footprint is essential.",
+      "exampleCn": "减少我们的生态足迹至关重要。"
+    },
+    {
+      "word": "deforestation",
+      "phonetic": "/ˌdiːfɒrɪˈsteɪʃn/",
+      "meaning": "n. 森林砍伐",
+      "example": "Deforestation accelerates climate change.",
+      "exampleCn": "森林砍伐加速气候变化。"
+    },
+    {
       "word": "degradation",
       "phonetic": "/ˌdeɡrəˈdeɪʃn/",
       "meaning": "n. 退化",
       "example": "Land degradation threatens food security.",
       "exampleCn": "土地退化威胁粮食安全。"
+    },
+    {
+      "word": "endangered",
+      "phonetic": "/ɪnˈdeɪndʒəd/",
+      "meaning": "adj. 濒危的",
+      "example": "The panda is no longer classified as endangered.",
+      "exampleCn": "大熊猫不再被列为濒危物种。"
+    },
+    {
+      "word": "conservation area",
+      "phonetic": "/ˌkɒnsəˈveɪʃn ˈeəriə/",
+      "meaning": "n. 保护区",
+      "example": "National parks are vital conservation areas.",
+      "exampleCn": "国家公园是重要的保护区。"
+    },
+    {
+      "word": "energy-efficient",
+      "phonetic": "/ˈenədʒi ɪˈfɪʃnt/",
+      "meaning": "adj. 节能的",
+      "example": "Energy-efficient homes reduce utility bills.",
+      "exampleCn": "节能房屋减少水电费。"
+    },
+    {
+      "word": "environmentalist",
+      "phonetic": "/ɪnˌvaɪrənˈmentəlɪst/",
+      "meaning": "n. 环保人士",
+      "example": "Environmentalists push for stronger climate policies.",
+      "exampleCn": "环保人士推动更强气候政策。"
     },
     {
       "word": "photosynthesis",
@@ -282,113 +282,113 @@
     }
   ],
   "reading": {
-    "title": "Balancing Development and Environmental Protection",
-    "content": "The tension between economic development and environmental **preservation** defines our era. **Urbanization** and industrial growth have improved living standards but at great **ecological** cost. **Deforestation** and **fossil fuel** consumption drive **global warming** and **habitat** loss.\n\n**Conservation** strategies must evolve to address these challenges. **Carbon footprint** reduction requires changes in behavior and technology. **Renewable energy** and **energy-efficient** systems offer pathways to **sustainable** development. **Eco-friendly** innovations are becoming economically viable.\n\n**Legislation** plays a crucial role. Government policies on **emission reduction**, **waste management**, and protected **conservation areas** create frameworks for action. Individual choices matter too — reducing **overconsumption**, recycling, and supporting **environmentalist** causes. The **adaptation** to a greener economy is not just necessary but possible through collective effort."
+    "title": "The Path to Environmental Sustainability",
+    "content": "Environmental **sustainability** requires urgent collective action. The **atmosphere** continues to warm as **greenhouse** gas concentrations rise. **Emission reduction** targets set by international agreements provide a framework, but progress remains insufficient.\n\n**Ecological** damage from **overconsumption** and pollution threatens **biodiversity** worldwide. **Toxic** chemicals **contaminate** soil and water, while **plastic waste** chokes **marine** life. **Desertification** and land **degradation** reduce agricultural productivity.\n\nPositive developments include the growth of **renewable energy**, **energy-efficient** technologies, and **eco-friendly** products. **Conservation areas** protect vulnerable species. **Environmentalist** movements raise awareness. Climate **adaptation** strategies help communities cope with changes already underway. The path forward requires both **mitigation** and **preservation** efforts at all levels of society."
   },
   "readingQuestions": [
     {
-      "question": "What defines the current era according to the passage?",
+      "question": "What provides a framework for emission reduction?",
       "options": [
-        "Technological progress",
-        "Tension between development and preservation",
-        "Global cooperation",
-        "Economic stability"
+        "Individual choices",
+        "International agreements",
+        "Corporate policies",
+        "Local ordinances"
       ],
       "correct": 1
     },
     {
-      "question": "What has driven global warming?",
+      "question": "What threatens marine life?",
       "options": [
-        "Renewable energy",
-        "Deforestation and fossil fuel consumption",
-        "Conservation efforts",
-        "Reduced industrial activity"
+        "Overfishing only",
+        "Plastic pollution and acidification",
+        "Natural predators",
+        "Temperature increases only"
       ],
       "correct": 1
     },
     {
-      "question": "What offers pathways to sustainable development?",
+      "question": "What are positive environmental developments mentioned?",
       "options": [
-        "Fossil fuels",
-        "Renewable energy and energy-efficient systems",
-        "Increased consumption",
-        "Deforestation"
+        "Increased fossil fuel use",
+        "Growth of renewable energy and eco-friendly products",
+        "Reduced environmental regulations",
+        "More deforestation"
       ],
       "correct": 1
     },
     {
-      "question": "What creates frameworks for environmental action?",
+      "question": "What helps communities cope with climate changes?",
       "options": [
-        "Individual choices only",
-        "Corporate profits",
-        "Government legislation",
-        "International trade"
+        "Ignoring the problem",
+        "Adaptation strategies",
+        "Increased emissions",
+        "Urban expansion"
       ],
-      "correct": 2
+      "correct": 1
     },
     {
-      "question": "What is possible through collective effort?",
+      "question": "What is needed at all levels of society?",
       "options": [
-        "Reversing all environmental damage",
-        "Eliminating pollution entirely",
-        "Adaptation to a greener economy",
-        "Stopping climate change immediately"
+        "More consumption",
+        "Mitigation and preservation efforts",
+        "Less regulation",
+        "Faster urbanization"
       ],
-      "correct": 2
+      "correct": 1
     }
   ],
   "writing": {
-    "type": "Problems and Solutions",
+    "type": "Discuss both views",
     "task": "Task 2",
     "time": "40 minutes",
-    "prompt": "Plastic pollution has become one of the most pressing environmental issues of our time. What problems does plastic pollution cause, and what measures can be taken to address this issue?",
+    "prompt": "Economic growth is often prioritized over environmental protection in developing countries. Some argue that countries must develop first before they can afford to go green. Others say environmental protection cannot wait. Discuss both views.",
     "tips": [
-      "Identify 2-3 key problems",
-      "Propose realistic solutions",
-      "Use specific data where relevant",
-      "Connect to broader environmental issues",
-      "Conclude with a call to action"
+      "Define key terms in introduction",
+      "Present economic arguments first",
+      "Then present environmental arguments",
+      "Use specific country examples",
+      "Offer a balanced conclusion"
     ],
     "suggestedVocab": [
-      "marine",
-      "toxic",
-      "biodegradable",
-      "waste management",
-      "eco-friendly",
-      "legislation"
+      "urbanization",
+      "ecological",
+      "degradation",
+      "renewable",
+      "adaptation",
+      "preservation"
     ]
   },
   "speaking": {
     "part1": [
       {
-        "question": "Have you ever participated in any environmental activities?",
-        "reference": "Yes, I've joined community beach clean-ups and tree-planting events. These activities are not only helpful but also raise awareness among participants."
+        "question": "What environmental problem concerns you the most?",
+        "reference": "Plastic pollution concerns me greatly because it affects marine life and enters our food chain through microplastics."
       },
       {
-        "question": "What is your opinion on electric vehicles?",
-        "reference": "I think electric vehicles are a positive development, especially when charged using renewable energy. However, battery production and disposal still pose environmental challenges."
+        "question": "Should plastic bags be banned completely?",
+        "reference": "I think banning single-use plastic bags is a step in the right direction, but it should be accompanied by affordable alternatives and public education."
       },
       {
-        "question": "Do you think climate change is exaggerated by the media?",
-        "reference": "I believe the media sometimes sensationalizes climate stories, but the underlying scientific consensus is clear — climate change is real and requires urgent action."
+        "question": "Do you think young people are more environmentally aware than older generations?",
+        "reference": "Young people tend to be more aware because environmental education has become more prominent in schools, and they are more exposed to environmental content on social media."
       }
     ],
     "part2": {
-      "prompt": "Describe a change you have made to live more sustainably.\n- What the change was\n- When you made it\n- Was it difficult to implement\n- And explain how it has affected your life",
-      "reference": "I decided to become a vegetarian about two years ago after learning about the environmental impact of meat production. It was challenging at first, but I gradually discovered delicious plant-based alternatives. This change has not only reduced my ecological footprint but also improved my health."
+      "prompt": "Describe something you do to help the environment.\n- What you do\n- How often you do it\n- Why you started doing it\n- And explain how this helps the environment",
+      "reference": "I make a conscious effort to reduce food waste by planning meals weekly, composting scraps, and storing food properly. I started doing this after learning that food waste in landfills produces methane. It helps reduce greenhouse gas emissions and saves money."
     },
     "part3": [
       {
-        "question": "What role should international organizations play in environmental protection?",
-        "reference": "International organizations can facilitate global cooperation, set emission reduction targets, provide funding for green projects in developing countries, and monitor progress."
+        "question": "Can technology solve environmental problems?",
+        "reference": "Technology can provide powerful solutions like renewable energy and carbon capture, but it is not a silver bullet. Behavioral change and policy reforms are equally important."
       },
       {
-        "question": "How does consumer behavior affect the environment?",
-        "reference": "Consumer behavior drives production. When people choose sustainable products, companies respond by offering greener options. Conversely, overconsumption of fast fashion and single-use items harms the environment."
+        "question": "How can individuals make a meaningful impact on the environment?",
+        "reference": "Individual actions collectively make a significant difference. Reducing consumption, choosing sustainable products, and voting for environmental policies all contribute."
       },
       {
-        "question": "What are the environmental consequences of urbanization?",
-        "reference": "Urbanization leads to habitat loss, increased emissions, higher energy consumption, and waste management challenges. However, well-planned cities can actually be more environmentally efficient than suburban sprawl."
+        "question": "What is the biggest obstacle to environmental progress?",
+        "reference": "The biggest obstacle is probably short-term thinking — prioritizing immediate economic gains over long-term sustainability. Overcoming this requires both education and policy changes."
       }
     ]
   }
