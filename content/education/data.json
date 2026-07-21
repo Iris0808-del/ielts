@@ -1,32 +1,25 @@
 {
   "words": [
     {
-      "word": "specialize",
-      "phonetic": "/ˈspeʃəlaɪz/",
-      "meaning": "v. 专攻",
-      "example": "Students can specialize in their second year.",
-      "exampleCn": "学生可以在第二年专攻。"
+      "word": "pedagogy",
+      "phonetic": "/ˈpedəɡɒdʒi/",
+      "meaning": "n. 教学法",
+      "example": "Modern pedagogy focuses on critical thinking.",
+      "exampleCn": "现代教学法注重批判性思维。"
     },
     {
-      "word": "academic",
-      "phonetic": "/ˌækəˈdemɪk/",
-      "meaning": "adj. 学术的",
-      "example": "She pursued an academic career in linguistics.",
-      "exampleCn": "她从事语言学学术生涯。"
+      "word": "prodigy",
+      "phonetic": "/ˈprɒdədʒi/",
+      "meaning": "n. 天才，神童",
+      "example": "The child prodigy entered university at age twelve.",
+      "exampleCn": "这位神童十二岁进入大学。"
     },
     {
-      "word": "plagiarism",
-      "phonetic": "/ˈpleɪdʒərɪzəm/",
-      "meaning": "n. 剽窃",
-      "example": "Plagiarism can result in severe penalties.",
-      "exampleCn": "剽窃可能导致严厉处罚。"
-    },
-    {
-      "word": "comprehensive",
-      "phonetic": "/ˌkɒmprɪˈhensɪv/",
-      "meaning": "adj. 全面的",
-      "example": "A comprehensive education covers many fields.",
-      "exampleCn": "全面的教育涵盖多个领域。"
+      "word": "enrolment",
+      "phonetic": "/ɪnˈrəʊlmənt/",
+      "meaning": "n. 注册，入学",
+      "example": "Enrolment in STEM courses has increased.",
+      "exampleCn": "STEM课程注册人数增加了。"
     },
     {
       "word": "kindergarten",
@@ -36,32 +29,95 @@
       "exampleCn": "幼儿园为学习打下基础。"
     },
     {
-      "word": "supplement",
-      "phonetic": "/ˈsʌplɪmənt/",
-      "meaning": "v./n. 补充",
-      "example": "Online courses supplement traditional learning.",
-      "exampleCn": "在线课程补充传统学习。"
+      "word": "pedantic",
+      "phonetic": "/pɪˈdæntɪk/",
+      "meaning": "adj. 迂腐的，卖弄学问的",
+      "example": "A pedantic approach can stifle student creativity.",
+      "exampleCn": "迂腐的方法会扼杀学生的创造力。"
     },
     {
-      "word": "interactive",
-      "phonetic": "/ˌɪntərˈæktɪv/",
-      "meaning": "adj. 互动的",
-      "example": "Interactive methods engage students more effectively.",
-      "exampleCn": "互动方法更有效吸引学生。"
+      "word": "comprehensive",
+      "phonetic": "/ˌkɒmprɪˈhensɪv/",
+      "meaning": "adj. 全面的",
+      "example": "A comprehensive education covers many fields.",
+      "exampleCn": "全面的教育涵盖多个领域。"
     },
     {
-      "word": "erudite",
-      "phonetic": "/ˈerudaɪt/",
-      "meaning": "adj. 博学的",
-      "example": "The erudite professor was respected by all.",
-      "exampleCn": "这位博学的教授受到所有人尊敬。"
+      "word": "curriculum",
+      "phonetic": "/kəˈrɪkjələm/",
+      "meaning": "n. 课程",
+      "example": "The curriculum was redesigned to include coding.",
+      "exampleCn": "课程被重新设计以包含编程。"
     },
     {
-      "word": "didacticism",
-      "phonetic": "/daɪˈdæktɪsɪzəm/",
-      "meaning": "n. 教导主义",
-      "example": "Modern education moves away from pure didacticism.",
-      "exampleCn": "现代教育正在摆脱纯粹的教导主义。"
+      "word": "pedagogue",
+      "phonetic": "/ˈpedəɡɒɡ/",
+      "meaning": "n. 教师，教育者",
+      "example": "Every pedagogue strives to inspire their students.",
+      "exampleCn": "每位教育者都努力激励学生。"
+    },
+    {
+      "word": "stimulate",
+      "phonetic": "/ˈstɪmjuleɪt/",
+      "meaning": "v. 激发",
+      "example": "Good teachers stimulate intellectual curiosity.",
+      "exampleCn": "好老师激发求知欲。"
+    },
+    {
+      "word": "remedial",
+      "phonetic": "/rɪˈmiːdiəl/",
+      "meaning": "adj. 补习的， remedial",
+      "example": "Remedial classes help struggling students catch up.",
+      "exampleCn": "补习班帮助有困难的学生赶上来。"
+    },
+    {
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "meaning": "v. 促进",
+      "example": "Technology can facilitate personalized learning.",
+      "exampleCn": "技术可以促进个性化学习。"
+    },
+    {
+      "word": "inequality",
+      "phonetic": "/ˌɪnɪˈkwɒləti/",
+      "meaning": "n. 不平等",
+      "example": "Educational inequality remains a challenge.",
+      "exampleCn": "教育不平等仍是一个挑战。"
+    },
+    {
+      "word": "conventional",
+      "phonetic": "/kənˈvenʃənl/",
+      "meaning": "adj. 传统的",
+      "example": "Conventional methods are being re-evaluated.",
+      "exampleCn": "传统方法正在被重新评估。"
+    },
+    {
+      "word": "assessment",
+      "phonetic": "/əˈsesmənt/",
+      "meaning": "n. 评估",
+      "example": "Teachers use various forms of assessment.",
+      "exampleCn": "教师使用多种评估方式。"
+    },
+    {
+      "word": "plagiarism",
+      "phonetic": "/ˈpleɪdʒərɪzəm/",
+      "meaning": "n. 剽窃",
+      "example": "Plagiarism can result in severe penalties.",
+      "exampleCn": "剽窃可能导致严厉处罚。"
+    },
+    {
+      "word": "illiterate",
+      "phonetic": "/ɪˈlɪtərət/",
+      "meaning": "adj. 文盲的",
+      "example": "Efforts continue to reduce illiterate populations.",
+      "exampleCn": "继续努力减少文盲人口。"
+    },
+    {
+      "word": "mentor",
+      "phonetic": "/ˈmentɔːr/",
+      "meaning": "n. 导师",
+      "example": "A good mentor can shape a student's future.",
+      "exampleCn": "好的导师能塑造学生的未来。"
     },
     {
       "word": "seminar",
@@ -78,102 +134,11 @@
       "exampleCn": "数字素养与传统读写能力同等重要。"
     },
     {
-      "word": "cognitive",
-      "phonetic": "/ˈkɒɡnətɪv/",
-      "meaning": "adj. 认知的",
-      "example": "Early education boosts cognitive development.",
-      "exampleCn": "早期教育促进认知发展。"
-    },
-    {
-      "word": "potential",
-      "phonetic": "/pəˈtenʃl/",
-      "meaning": "n./adj. 潜力",
-      "example": "Every student has unique potential.",
-      "exampleCn": "每个学生都有独特的潜力。"
-    },
-    {
-      "word": "pedagogy",
-      "phonetic": "/ˈpedəɡɒdʒi/",
-      "meaning": "n. 教学法",
-      "example": "Modern pedagogy focuses on critical thinking.",
-      "exampleCn": "现代教学法注重批判性思维。"
-    },
-    {
-      "word": "rigorous",
-      "phonetic": "/ˈrɪɡərəs/",
-      "meaning": "adj. 严格的",
-      "example": "The program provides rigorous training.",
-      "exampleCn": "该计划提供严格的训练。"
-    },
-    {
       "word": "motivation",
       "phonetic": "/ˌməʊtɪˈveɪʃn/",
       "meaning": "n. 动力",
       "example": "Intrinsic motivation is key to success.",
       "exampleCn": "内在动力是成功的关键。"
-    },
-    {
-      "word": "prodigy",
-      "phonetic": "/ˈprɒdədʒi/",
-      "meaning": "n. 天才，神童",
-      "example": "The child prodigy entered university at age twelve.",
-      "exampleCn": "这位神童十二岁进入大学。"
-    },
-    {
-      "word": "innovation",
-      "phonetic": "/ˌɪnəˈveɪʃn/",
-      "meaning": "n. 创新",
-      "example": "Educational innovation transforms classrooms.",
-      "exampleCn": "教育创新改变课堂。"
-    },
-    {
-      "word": "didactic",
-      "phonetic": "/daɪˈdæktɪk/",
-      "meaning": "adj. 教导的，说教的",
-      "example": "Didactic teaching methods have both merits and drawbacks.",
-      "exampleCn": "说教式教学方法既有优点也有缺点。"
-    },
-    {
-      "word": "inequality",
-      "phonetic": "/ˌɪnɪˈkwɒləti/",
-      "meaning": "n. 不平等",
-      "example": "Educational inequality remains a challenge.",
-      "exampleCn": "教育不平等仍是一个挑战。"
-    },
-    {
-      "word": "curriculum vitae",
-      "phonetic": "/kəˌrɪkjələm ˈviːtaɪ/",
-      "meaning": "n. 简历",
-      "example": "A strong CV is essential for job seekers.",
-      "exampleCn": "一份好的简历对求职者至关重要。"
-    },
-    {
-      "word": "retention",
-      "phonetic": "/rɪˈtenʃn/",
-      "meaning": "n. 保持，记忆",
-      "example": "Active learning improves knowledge retention.",
-      "exampleCn": "主动学习提高知识保持率。"
-    },
-    {
-      "word": "undergraduate",
-      "phonetic": "/ˌʌndəˈɡrædʒuət/",
-      "meaning": "n. 本科生",
-      "example": "Undergraduate programs typically last three years.",
-      "exampleCn": "本科课程通常为三年。"
-    },
-    {
-      "word": "nurture",
-      "phonetic": "/ˈnɜːtʃər/",
-      "meaning": "v. 培养",
-      "example": "Teachers should nurture curiosity in students.",
-      "exampleCn": "教师应培养学生好奇心。"
-    },
-    {
-      "word": "enrolment",
-      "phonetic": "/ɪnˈrəʊlmənt/",
-      "meaning": "n. 注册，入学",
-      "example": "Enrolment in STEM courses has increased.",
-      "exampleCn": "STEM课程注册人数增加了。"
     },
     {
       "word": "graduate",
@@ -183,25 +148,109 @@
       "exampleCn": "毕业生面临竞争激烈的就业市场。"
     },
     {
-      "word": "assessment",
-      "phonetic": "/əˈsesmənt/",
-      "meaning": "n. 评估",
-      "example": "Teachers use various forms of assessment.",
-      "exampleCn": "教师使用多种评估方式。"
+      "word": "erudite",
+      "phonetic": "/ˈerudaɪt/",
+      "meaning": "adj. 博学的",
+      "example": "The erudite professor was respected by all.",
+      "exampleCn": "这位博学的教授受到所有人尊敬。"
     },
     {
-      "word": "streaming",
-      "phonetic": "/ˈstriːmɪŋ/",
-      "meaning": "n. 分班，分流",
-      "example": "Streaming allows students to learn at their own pace.",
-      "exampleCn": "分班让学生按自己的节奏学习。"
+      "word": "syllabus",
+      "phonetic": "/ˈsɪləbəs/",
+      "meaning": "n. 教学大纲",
+      "example": "The syllabus outlines all course requirements.",
+      "exampleCn": "教学大纲列出了所有课程要求。"
     },
     {
-      "word": "pedagogue",
-      "phonetic": "/ˈpedəɡɒɡ/",
-      "meaning": "n. 教师，教育者",
-      "example": "Every pedagogue strives to inspire their students.",
-      "exampleCn": "每位教育者都努力激励学生。"
+      "word": "discipline",
+      "phonetic": "/ˈdɪsəplɪn/",
+      "meaning": "n. 纪律；学科",
+      "example": "Classroom discipline creates an effective environment.",
+      "exampleCn": "课堂纪律创造有效的学习环境。"
+    },
+    {
+      "word": "interactive",
+      "phonetic": "/ˌɪntərˈæktɪv/",
+      "meaning": "adj. 互动的",
+      "example": "Interactive methods engage students more effectively.",
+      "exampleCn": "互动方法更有效吸引学生。"
+    },
+    {
+      "word": "tuition",
+      "phonetic": "/tjuˈɪʃn/",
+      "meaning": "n. 学费",
+      "example": "Rising tuition costs burden many families.",
+      "exampleCn": "上涨的学费给许多家庭带来负担。"
+    },
+    {
+      "word": "competence",
+      "phonetic": "/ˈkɒmpɪtəns/",
+      "meaning": "n. 能力",
+      "example": "Employers value both knowledge and competence.",
+      "exampleCn": "雇主重视知识和能力。"
+    },
+    {
+      "word": "matriculation",
+      "phonetic": "/məˌtrɪkjuˈleɪʃn/",
+      "meaning": "n. 入学",
+      "example": "Matriculation requirements vary by institution.",
+      "exampleCn": "入学要求因学校而异。"
+    },
+    {
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "meaning": "n. 现象",
+      "example": "Lifelong learning is a growing phenomenon.",
+      "exampleCn": "终身学习是日益增长的现象。"
+    },
+    {
+      "word": "supplement",
+      "phonetic": "/ˈsʌplɪmənt/",
+      "meaning": "v./n. 补充",
+      "example": "Online courses supplement traditional learning.",
+      "exampleCn": "在线课程补充传统学习。"
+    },
+    {
+      "word": "vocational",
+      "phonetic": "/vəʊˈkeɪʃənl/",
+      "meaning": "adj. 职业的",
+      "example": "Vocational training offers practical skills.",
+      "exampleCn": "职业培训提供实用技能。"
+    },
+    {
+      "word": "rote",
+      "phonetic": "/rəʊt/",
+      "meaning": "n. 死记硬背",
+      "example": "Rote learning is less effective than understanding concepts.",
+      "exampleCn": "死记硬背不如理解概念有效。"
+    },
+    {
+      "word": "innovation",
+      "phonetic": "/ˌɪnəˈveɪʃn/",
+      "meaning": "n. 创新",
+      "example": "Educational innovation transforms classrooms.",
+      "exampleCn": "教育创新改变课堂。"
+    },
+    {
+      "word": "compulsory",
+      "phonetic": "/kəmˈpʌlsəri/",
+      "meaning": "adj. 强制的，必修的",
+      "example": "Physical education is compulsory in most schools.",
+      "exampleCn": "体育在大多数学校是必修的。"
+    },
+    {
+      "word": "retention",
+      "phonetic": "/rɪˈtenʃn/",
+      "meaning": "n. 保持，记忆",
+      "example": "Active learning improves knowledge retention.",
+      "exampleCn": "主动学习提高知识保持率。"
+    },
+    {
+      "word": "nurture",
+      "phonetic": "/ˈnɜːtʃər/",
+      "meaning": "v. 培养",
+      "example": "Teachers should nurture curiosity in students.",
+      "exampleCn": "教师应培养学生好奇心。"
     },
     {
       "word": "dedicate",
@@ -211,41 +260,6 @@
       "exampleCn": "她致力于改善教育。"
     },
     {
-      "word": "stimulate",
-      "phonetic": "/ˈstɪmjuleɪt/",
-      "meaning": "v. 激发",
-      "example": "Good teachers stimulate intellectual curiosity.",
-      "exampleCn": "好老师激发求知欲。"
-    },
-    {
-      "word": "curriculum",
-      "phonetic": "/kəˈrɪkjələm/",
-      "meaning": "n. 课程",
-      "example": "The curriculum was redesigned to include coding.",
-      "exampleCn": "课程被重新设计以包含编程。"
-    },
-    {
-      "word": "pedantic",
-      "phonetic": "/pɪˈdæntɪk/",
-      "meaning": "adj. 迂腐的，卖弄学问的",
-      "example": "A pedantic approach can stifle student creativity.",
-      "exampleCn": "迂腐的方法会扼杀学生的创造力。"
-    },
-    {
-      "word": "tertiary",
-      "phonetic": "/ˈtɜːʃəri/",
-      "meaning": "adj. 高等教育的",
-      "example": "Tertiary education opens up more opportunities.",
-      "exampleCn": "高等教育打开更多机会。"
-    },
-    {
-      "word": "holistic",
-      "phonetic": "/həʊˈlɪstɪk/",
-      "meaning": "adj. 全面的，整体的",
-      "example": "A holistic approach to education considers emotional growth.",
-      "exampleCn": "全面的教育方法考虑情感成长。"
-    },
-    {
       "word": "syllabus",
       "phonetic": "/ˈsɪləbəs/",
       "meaning": "n. 教学大纲",
@@ -253,11 +267,11 @@
       "exampleCn": "教学大纲每年更新以反映变化。"
     },
     {
-      "word": "co-curricular",
-      "phonetic": "/ˌkəʊ kəˈrɪkjələ/",
-      "meaning": "adj. 课外辅助的",
-      "example": "Co-curricular activities complement academic learning.",
-      "exampleCn": "课外辅助活动补充学术学习。"
+      "word": "undergraduate",
+      "phonetic": "/ˌʌndəˈɡrædʒuət/",
+      "meaning": "n. 本科生",
+      "example": "Undergraduate programs typically last three years.",
+      "exampleCn": "本科课程通常为三年。"
     },
     {
       "word": "expel",
@@ -265,130 +279,116 @@
       "meaning": "v. 开除",
       "example": "Schools rarely expel students except for severe cases.",
       "exampleCn": "学校很少开除学生除非情况严重。"
-    },
-    {
-      "word": "conventional",
-      "phonetic": "/kənˈvenʃənl/",
-      "meaning": "adj. 传统的",
-      "example": "Conventional methods are being re-evaluated.",
-      "exampleCn": "传统方法正在被重新评估。"
-    },
-    {
-      "word": "didactic",
-      "phonetic": "/daɪˈdæktɪk/",
-      "meaning": "adj. 教学的",
-      "example": "Didactic materials support structured learning.",
-      "exampleCn": "教学材料支持结构化学习。"
     }
   ],
   "reading": {
-    "title": "Challenges and Opportunities in Modern Education",
-    "content": "The modern education system faces both challenges and opportunities. One key issue is **discipline** in classrooms, which has become more complex as student populations become more **diverse**. Teachers must **nurture** an environment where all students can thrive while maintaining **rigorous** **academic** standards.\n\n**Compulsory** education laws have improved **literacy** rates globally, but **illiterate** populations still exist. **Innovation** in **pedagogy** offers new ways to address these gaps. **Interactive** **seminars** and project-based learning **supplement** **conventional** lectures, **stimulating** deeper **cognitive** engagement.\n\nFunding **allocation** remains contentious. Critics argue that educational **inequality** persists due to uneven resource distribution. **Vocational** programs need more support to provide practical **competence**. Ultimately, education must **facilitate** both personal growth and workforce readiness through a **comprehensive** approach."
+    "title": "The Evolving Landscape of Education",
+    "content": "Education has undergone significant transformation. A **comprehensive** education system now emphasizes not only **academic** knowledge but also **holistic** development. **Pedagogical** approaches have shifted from **rote** memorization toward **interactive** learning that **stimulates** critical thinking.\n\n**Tertiary** institutions face pressure to update their **curriculum** to meet modern demands. The rising cost of **tuition** has sparked debate about educational **inequality**, with many calling for increased **scholarship** programs. **Vocational** training has gained recognition for providing practical **competence**.\n\nTechnology continues to **facilitate** learning through **innovative** tools. However, the **phenomenon** of digital distraction poses challenges. Effective educators **nurture** **motivation** and **dedicate** themselves to unlocking every student's **potential**. A **diverse** and inclusive approach remains the cornerstone of modern education."
   },
   "readingQuestions": [
     {
-      "question": "What has made classroom discipline more complex?",
+      "question": "What has shifted in pedagogical approaches according to the passage?",
       "options": [
-        "Lack of funding",
-        "More diverse student populations",
-        "Online learning",
-        "Shorter school hours"
+        "From interactive to rote learning",
+        "From rote memorization toward interactive learning",
+        "From vocational to academic training",
+        "From online to classroom learning"
       ],
       "correct": 1
     },
     {
-      "question": "What has improved global literacy rates?",
+      "question": "Why has tuition cost become a topic of debate?",
       "options": [
-        "Online courses",
-        "Compulsory education laws",
-        "Private tutoring",
-        "International exams"
+        "It has decreased significantly",
+        "It contributes to educational inequality",
+        "It only affects vocational schools",
+        "It is regulated by the government"
       ],
       "correct": 1
     },
     {
-      "question": "How do interactive seminars supplement learning?",
+      "question": "What role does technology play in education?",
       "options": [
-        "They replace lectures entirely",
-        "They stimulate deeper cognitive engagement",
-        "They reduce the need for teachers",
-        "They focus only on exams"
+        "It replaces teachers entirely",
+        "It facilitates learning through innovative tools",
+        "It is only useful for vocational training",
+        "It reduces the need for curriculum"
       ],
       "correct": 1
     },
     {
-      "question": "What persists despite efforts to improve education?",
+      "question": "What does the passage say about a diverse educational approach?",
       "options": [
-        "High literacy rates",
-        "Educational inequality",
-        "Excessive funding",
-        "Too many teachers"
+        "It is not necessary",
+        "It is the cornerstone of modern education",
+        "It only applies to tertiary education",
+        "It hinders academic progress"
       ],
       "correct": 1
     },
     {
-      "question": "What does education ultimately need to facilitate?",
+      "question": "What do effective educators nurture in students?",
       "options": [
-        "Only workforce readiness",
-        "Only personal growth",
-        "Both personal growth and workforce readiness",
-        "Only academic excellence"
+        "Only academic skills",
+        "Motivation and potential",
+        "Competition and grades",
+        "Discipline and obedience"
       ],
-      "correct": 2
+      "correct": 1
     }
   ],
   "writing": {
-    "type": "Agree or Disagree",
+    "type": "Discuss both views",
     "task": "Task 2",
     "time": "40 minutes",
-    "prompt": "Some people think that all children should be required to learn a foreign language from primary school. Others believe this puts unnecessary pressure on young students. To what extent do you agree or disagree?",
+    "prompt": "Some people believe that the primary purpose of education is to prepare individuals for the workforce. Others argue that education has a broader role in developing well-rounded individuals. Discuss both views and give your opinion.",
     "tips": [
-      "State your position clearly",
-      "Consider both benefits and drawbacks",
-      "Provide evidence from research",
-      "Use academic vocabulary",
-      "Summarize your argument in conclusion"
+      "Start with a clear introduction",
+      "Dedicate one paragraph to each view",
+      "Use specific examples",
+      "Include vocabulary from today's list",
+      "Conclude with your personal opinion"
     ],
     "suggestedVocab": [
-      "compulsory",
-      "curriculum",
+      "vocational",
+      "competence",
+      "comprehensive",
+      "nurture",
       "cognitive",
-      "facilitate",
-      "motivation",
-      "rigorous"
+      "potential"
     ]
   },
   "speaking": {
     "part1": [
       {
-        "question": "What is the most important skill students should learn at school?",
-        "reference": "I believe critical thinking is the most important skill because it enables students to analyze information independently and make informed decisions throughout their lives."
+        "question": "Do you think education is important in your country? Why?",
+        "reference": "Education plays a vital role in shaping individuals and society. In my country, it is highly valued as a means to secure better career opportunities and personal growth."
       },
       {
-        "question": "Should students be allowed to choose what they study?",
-        "reference": "To some extent, yes. While a core curriculum ensures foundational knowledge, allowing students to specialize in areas of interest can boost motivation and engagement."
+        "question": "What subject did you enjoy most at school?",
+        "reference": "I was particularly fond of literature because it stimulated my imagination and helped me understand different perspectives."
       },
       {
-        "question": "Do you think exams are the best way to assess students?",
-        "reference": "Exams have their limitations. I think a combination of continuous assessment, projects, and exams provides a more comprehensive picture of a student's abilities."
+        "question": "Do you think the education system in your country needs improvement?",
+        "reference": "While the system has its strengths, I believe there is room for improvement in terms of fostering creativity rather than focusing solely on exam results."
       }
     ],
     "part2": {
-      "prompt": "Describe a book that had a significant impact on your education.\n- What the book was\n- When you read it\n- What it taught you\n- And explain why it was important for your learning",
-      "reference": "I'd like to talk about 'Thinking, Fast and Slow' by Daniel Kahneman, which I read during my second year of university. It fundamentally changed how I understand decision-making and cognitive biases. The book taught me to question my assumptions and think more critically."
+      "prompt": "Describe a teacher who made a significant impact on your life.\n- Who this teacher was\n- What subject they taught\n- How they influenced you\n- And explain why you remember them so vividly",
+      "reference": "I'd like to talk about my high school English teacher who transformed my attitude toward learning. She had a unique ability to make every lesson engaging and would often stay after class to provide extra guidance. Her mentorship had a profound impact on my academic journey."
     },
     "part3": [
       {
-        "question": "Should university education be free for all students?",
-        "reference": "While free education would promote equality, it poses significant funding challenges. A compromise could be means-tested tuition fees or expanded scholarship programs."
+        "question": "How has education changed in your country over the past few decades?",
+        "reference": "Education has undergone significant transformation from traditional rote learning toward interactive and student-centered approaches. Technology has also played a crucial role in facilitating access to educational resources."
       },
       {
-        "question": "How can technology improve the learning experience?",
-        "reference": "Technology can personalize learning paths, provide instant feedback, and make education more accessible. However, it should supplement rather than replace human teachers."
+        "question": "What role should the government play in education?",
+        "reference": "The government should ensure equal access to quality education, allocate adequate funding, and establish rigorous standards while allowing room for innovation."
       },
       {
-        "question": "What is the value of studying humanities in a technology-driven world?",
-        "reference": "Humanities develop critical thinking, empathy, and communication skills that are essential regardless of one's career. They help us understand the human condition and ethical implications of technological progress."
+        "question": "Do you think online education will replace traditional classrooms?",
+        "reference": "While online education offers flexibility, I don't believe it will completely replace traditional classrooms. The interactive and social aspects of in-person learning are invaluable."
       }
     ]
   }
